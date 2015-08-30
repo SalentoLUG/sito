@@ -20,6 +20,7 @@ body {
   margin-left: -300px;
   margin-top: -50px;
   opacity: .3;
+  position: fixed;
 }
 
 .footer {
@@ -76,16 +77,15 @@ ul.social li a i {
 .well {
   background-color: rgba(245, 245, 245, 0.8);
 }
+
 .content {
   min-height: 600px;
   margin-bottom: 20px;
 }
 
-
 @media only screen and (max-width: 768px) {
   .toc {
-    width: 95%;
-    margin-top: 30px;
+    visibility: hidden;
   }
 
   .logo-img {
@@ -99,4 +99,5 @@ ul.social li a i {
       min-height: 110px;
 
   }
+
 }
