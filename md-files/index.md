@@ -48,7 +48,7 @@ che puo' essere effettuata allo stesso indirizzo riportato sopra\
 *Il corso e' **gratuito** e **aperto a tutti** previa **registrazione***
 \
 \
- *E' possibile iscriversi al corso inviando un'email a **info@http://salug.it**
+ *E' possibile iscriversi al corso inviando un'email a **info@salug.it**
 o a **info@spaziosocialezei.org**, oppure lasciando il nominativo al
 bancone di Zei!!!\
 \
@@ -423,7 +423,7 @@ attestato. Se non avete ricevuto l'email e' possibile che ci sia stato
 un errore nella copiatura della stessa.
 
 Per qualsiasi informazione non esitate a contattarci :
-[info@http://salug.it](mailto:info@http://salug.it "mailto:info@http://salug.it")
+[info@salug.it](mailto:info@salug.it "mailto:info@salug.it")
 
 ## SaLUG! meets Stallman
 
