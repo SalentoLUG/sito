@@ -18,7 +18,7 @@ function allinea_news() {
   }
 
   // Elimina il titolo della pagina
-  level1 = document.getElementsByClassName("level1");
+  level1 = document.getElementsByClassName("level1")[0];
   level1.children[0].innerHTML = ""
 }
 
