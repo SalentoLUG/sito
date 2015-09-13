@@ -18,8 +18,18 @@ div.level1 h1 {
   background-color: rgba(150, 255, 255, 0.3);
 }
 
+.first-news-2-col {
+  -webkit-column-count: 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  column-count: 2;
+}
+
 div.first-news img {
   width: 100%;
+}
+
+div.first-news h2 {
+  margin-top: 5px;
 }
 
 div.news img {
@@ -49,3 +59,11 @@ div.news h2 a:hover {
 .toc ul > li > a:hover,
 .toc ul > li > a:focus { text-decoration: none; background-color: #eeeeee; }
 .toc ul > li > a, .toc ul > li > a { padding: 3px 15px; }
+
+@media only screen and (max-width: 768px) {
+  .first-news-2-col {
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+  }
+}

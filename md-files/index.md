@@ -1,5 +1,22 @@
 # Home
 
+## Apple-1 wants to be rebuilt
+
+[![](images/locandina-museo.jpg)](images/locandina-museo.jpg)
+
+Freaknet e Verdebinario ci presenteranno i loro musei, il MusIF (Museo dell'Informatica Funzionante) di Palazzolo Acreide e il MIAI (Museo Interattivo di Archeologia Informatica) di Cosenza, le tecniche con le quali hanno riportato in vita pezzi di "archeologia informatica"... o come li hanno ricostruiti dai progetti originali.
+
+Maggiori informazioni:
+
+Progetto Apple I - La ricostruzione
+[http://museo.freaknet.org/it/apple-1-creation/](http://museo.freaknet.org/it/apple-1-creation/)
+
+Museo dell'Informatica Funzionante - Palazzolo Acreide
+[http://museo.freaknet.org/it/museo/](http://museo.freaknet.org/it/museo/)
+
+Museo Interattivo di Archeologia Informatica
+[http://www.verdebinario.org/](http://www.verdebinario.org/)
+
 ## **Eric Leblond**, free software e network security hacker, co-foundatore di Stamus Networks, core team member in Linux Nftables e developer in Suricata IDS.
 
 [![](http://salug.it/wiki/upload/thumb/d/dd/Locandina-Eric.png/800px-Locandina-Eric.png)](http://salug.it/wiki/upload/images/Locandina-Eric.png)
