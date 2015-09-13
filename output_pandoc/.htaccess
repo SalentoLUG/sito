@@ -1,0 +1,3 @@
+Options +FollowSymlinks
+RewriteEngine on
+Rewriterule ^wiki/index.php/(.*)$ http://salug.it/$1.html [r=301,nc]
