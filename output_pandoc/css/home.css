@@ -18,6 +18,9 @@ div.level1 h1 {
   background-color: rgba(150, 255, 255, 0.3);
 }
 
+#first-news-img {
+  display: flex;
+}
 .first-news-2-col {
   -webkit-column-count: 2; /* Chrome, Safari, Opera */
   -moz-column-count: 2; /* Firefox */
