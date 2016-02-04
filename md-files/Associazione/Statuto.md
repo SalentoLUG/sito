@@ -2,7 +2,7 @@
 % Angelo D'Autilia
 % [Indice](00-Indice.html)
 
-[Versione in pdf](files/statuto.pdf)
+[Versione in pdf](../files/statuto.pdf)
 
 * [TITOLO I - DENOMINAZIONE, SEDE E DURATA](Statuto-Titolo-I.html)
     * ART. 1-3
