@@ -4,6 +4,7 @@
 
 [Versione in pdf](../files/statuto.pdf)
 
+
 * [TITOLO I - DENOMINAZIONE, SEDE E DURATA](Statuto-Titolo-I.html)
     * ART. 1-3
 
