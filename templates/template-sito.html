@@ -15,7 +15,7 @@
     <title>SaLUG! - $if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="$return_path$css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
     $for(css)$
@@ -23,7 +23,7 @@
     $endfor$
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="js/ie-emulation-modes-warning.js"></script>
+    <script src="$return_path$js/ie-emulation-modes-warning.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -44,14 +44,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">SaLUG!</a>
+          <a class="navbar-brand" href="$return_path$index.html">SaLUG!</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Eventi <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a href="LinuxDay.html">GNU/Linux Day</a></li>
+                <li><a href="$return_path$LinuxDay.html">GNU/Linux Day</a></li>
                 <li><a href="#">Geek Evening</a></li>
                 <li><a href="#">Seminari</a></li>
               </ul>
@@ -72,11 +72,11 @@
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Associazione <span class="caret"></span></a>
               <ul class="dropdown-menu">
                 <li><a href="#">L'Associazione Culturale</a></li>
-                <li><a href="#">Riunioni</a></li>
+                <li><a href="$return_path$Associazione/Riunioni.html">Riunioni</a></li>
                 <li><a href="#">Mappa del LUG</a></li>
               </ul>
             </li>
-            <li><a href="Contatti.html">Contatti</a></li>
+            <li><a href="$return_path$Contatti.html">Contatti</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -86,7 +86,7 @@
         <div class="row">
          <div class="col-sm-3">
            <div class="logo">
-             <img class="logo-img" src="images/logo.png">
+             <img class="logo-img" src="$return_path$images/logo.png">
            </div>
            $if(toc)$
            <div class="well toc">
@@ -132,8 +132,8 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="$return_path$js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <script src="$return_path$js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
