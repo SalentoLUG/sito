@@ -62,17 +62,17 @@ Museo Interattivo di Archeologia Informatica
 
 ## **Eric Leblond**, free software e network security hacker, co-foundatore di Stamus Networks, core team member in Linux Nftables e developer in Suricata IDS.
 
-[![](http://salug.it/wiki/upload/thumb/d/dd/Locandina-Eric.png/800px-Locandina-Eric.png)](http://salug.it/wiki/upload/images/Locandina-Eric.png)
+[![](images/Locandina-Eric.png)](images/Locandina-Eric.png)
 
 COSA : Doppio seminario su NFtables e SURICATA IDS 2.0 \
  QUANDO : Lunedi' 16 Febbraio 2015 alle ore 19.00 \
  DOVE : Spazio Sociale Zei - Corte dei Chiaramonte 2 - Lecce \
  More info : [Eric Leblond - NFTables + SURICATA IDS
-2.0](http://salug.it/Eric_Leblond "http://salug.it/Eric_Leblond")
+2.0](http://old.salug.it/Eric_Leblond "http://old.salug.it/Eric_Leblond")
 
 ## Corso di Introduzione all'Amministrazione di Sistemi GNU/Linux @ Manifatture Knos
 
-[![](http://salug.it/wiki/upload/thumb/2/23/Locandina-corso-sysadmin.png/220px-Locandina-corso-sysadmin.png)](http://salug.it/wiki/upload/images/Locandina-corso-sysadmin.png)
+[![](images/Locandina-corso-sysadmin.png)](images/Locandina-corso-sysadmin.png)
 
 \
  **Corso di Introduzione all'Amministrazione di Sistemi GNU/Linux**\
@@ -83,7 +83,7 @@ Configuration Managment System Automation, Container e Virtualizzazione.
 \
  Questi gli argomenti del corso che potete trovare in dettaglio
 all'indirizzo
-[http://salug.it/sysadmin](http://salug.it/sysadmin "http://salug.it/sysadmin")\
+[http://old.salug.it/sysadmin](http://old.salug.it/sysadmin "http://old.salug.it/sysadmin")\
 \
 
 *Il corso e' **gratuito** e **aperto a tutti** previa **registrazione***
@@ -92,7 +92,7 @@ che puo' essere effettuata allo stesso indirizzo riportato sopra\
 
 ## Il mio amico computer - Corso Base Teorico/Pratico @ Spazio Sociale Zei
 
-[![](http://salug.it/wiki/upload/thumb/e/eb/Locandina-corso-zei-2014.png/220px-Locandina-corso-zei-2014.png)](http://salug.it/wiki/upload/images/Locandina-corso-zei-2014.png)
+[![](images/Locandina-corso-zei-2014.png)](images/Locandina-corso-zei-2014.png)
 
 \
  **Corso Teorico e Pratico sull'uso del Computer**\
@@ -117,7 +117,7 @@ bancone di Zei!!!\
 
 ## GNU/Linux Day 2014 - Sabato 25 e Domenica 26 Ottobre 2014, ore 16.00 @ Manifatture KNOS
 
-[![](http://salug.it/wiki/upload/thumb/8/83/Locandina_cmyk_definitiva.png/220px-Locandina_cmyk_definitiva.png)](http://salug.it/wiki/upload/images/Locandina_cmyk_definitiva.png)
+[![](images/Locandina_cmyk_definitiva.png)](images/Locandina_cmyk_definitiva.png)
 
 Anche quest'anno e' arrivato il momento che tutti i linuxiani salentini
 aspettano!! Il GNU/Linux Day 2014 quest'anno sara' *Sabato 25 Ottobre*
@@ -130,7 +130,7 @@ giornate no stop!
  *date:* **Sabato 25 Ottobre 2014 \~ start ore 16.00**\
  *location:* **Manifatture KNOS, Via Vecchia Frigole, 36 - Lecce**\
  *Pagine di riferimento:*
-[http://salug.it/LD2014](http://www.http://salug.it/ld2014 "http://www.http://salug.it/ld2014")
+[http://salug.it/LD2014](http://old.salug.it/ld2014 "http://old.salug.it/ld2014")
 -
 [www.festivaldellacondivisione.it](http://www.festivaldellacondivisione.it/gnu-linux-day.html "http://www.festivaldellacondivisione.it/gnu-linux-day.html").\
 \
@@ -145,7 +145,7 @@ giornate no stop!
 
 ## Geek Evening 0x1F - Mercoledi' 4 Dicembre 2013, ore 18.30 @ Arci Zei
 
-[![](http://salug.it/wiki/upload/thumb/d/dc/Locandina_ge0x1f_800x.png/220px-Locandina_ge0x1f_800x.png)](http://salug.it/wiki/upload/images/Locandina_ge0x1f_800x.png)
+[![](images/Locandina_ge0x1f_800x.png)](images/Locandina_ge0x1f_800x.png)
 
 *date:* **Mercoledi' 4 Dicembre 2013 \~ ore 18.30**\
 \
@@ -167,7 +167,7 @@ casa!** \
 per testare *durante l'incontro* le novità presentate! \
  e se non potete partecipare seguite le discussioni in
 [MailingList](http://salug.it/wiki/index.php/MailingList "MailingList")
-[pubblica](https://www.http://salug.it/mailman/listinfo/salug "https://www.http://salug.it/mailman/listinfo/salug")
+[pubblica](https://salug.it/mailman/listinfo/salug "https://salug.it/mailman/listinfo/salug")
 
 
 ## Riunione SaLUG! \~ Giovedi' 21 Novembre 2013, ore 19.30 @ ZEI
@@ -187,12 +187,12 @@ per testare *durante l'incontro* le novità presentate! \
 \
  \
 **Vi aspettiamo numerosi e se non potete partecipare seguite le
-discussioni in [MailingList](http://salug.it/wiki/index.php/MailingList "MailingList")
-[pubblica](https://www.http://salug.it/mailman/listinfo/salug "https://www.http://salug.it/mailman/listinfo/salug").**
+discussioni in [MailingList](http://old.salug.it/wiki/index.php/MailingList "MailingList")
+[pubblica](https://salug.it/mailman/listinfo/salug "https://salug.it/mailman/listinfo/salug").**
 
 ## GNU/Linux Day 2013
 
-[![](http://salug.it/wiki/upload/thumb/e/eb/LocandinaLD2013.png/200px-LocandinaLD2013.png)](http://salug.it/wiki/upload/images/LocandinaLD2013.png)
+[![](images/LocandinaLD2013.png)](images/LocandinaLD2013.png)
 
 Il GNU/Linux Day è alle porte! Siete pronti? \
 \
@@ -207,48 +207,48 @@ associazioni, sostenitrici dei principio della Condivisione & Consumo
 Critico. \
 \
  Per consultare il programma completo della manifestazione visitare il
-[minisito dedicato](http://salug.it/ld2013/ "http://salug.it/ld2013/").
+[minisito dedicato](http://old.salug.it/ld2013/ "http://old.salug.it/ld2013/").
 Tramite lo stesso sarà inoltre possibile seguire lo streaming
 audio/video dell'evento.
 
 ## Giornata Mondiale del Software Libero \~ 21 settembre 2013 @ Lecce
 
-[![](http://salug.it/wiki/upload/thumb/8/80/SFD2013_locandina.png/200px-SFD2013_locandina.png)](http://salug.it/wiki/upload/images/SFD2013_locandina.png)
+[![](images/SFD2013_locandina.png)](images/SFD2013_locandina.png)
 
 **[Software Freedom Day
 2013](http://www.softwarefreedomday.org/ "http://www.softwarefreedomday.org/")**
 - **[come fatto in passato](http://salug.it/wiki/index.php/SFD "SFD") -**[anche
 quest'anno festeggiamo la Giornata del Software Libero nel
-Salento!](http://salug.it/wiki/index.php/SFD2013 "SFD2013")**\
+Salento!](http://old.salug.it/wiki/index.php/SFD2013 "SFD2013")**\
 \
 ** *data:* **sabato 21 settembre 2013**\
  *orario:* **18:00**\
  *luogo:* **Spazio Sociale Zei - Corte dei Chiaramonte, 2 - Lecce**\
  *comunicato*: **[Comunicato Stampa
-(PDF)](http://salug.it/public/eventi/sfd/comunicato.pdf "http://salug.it/public/eventi/sfd/comunicato.pdf")**\
+(PDF)](http://old.salug.it/public/eventi/sfd/comunicato.pdf "http://old.salug.it/public/eventi/sfd/comunicato.pdf")**\
  *locandina*: **[Locandina
-(PNG)](http://salug.it/public/eventi/sfd/SFD2013_locandina.png "http://salug.it/public/eventi/sfd/SFD2013_locandina.png")**\
+(PNG)](http://old.salug.it/public/eventi/sfd/SFD2013_locandina.png "http://old.salug.it/public/eventi/sfd/SFD2013_locandina.png")**\
  *materiale dell'evento*: **[evento
-locale](http://salug.it/wiki/index.php/SFD2013 "SFD2013")**\
+locale](http://old.salug.it/wiki/index.php/SFD2013 "SFD2013")**\
  \
  \
  **NB: Termine ultimo per le iscrizioni 19 Settembre 2013.** \
  Stiamo organizzando un [evento
-locale](http://salug.it/wiki/index.php/SFD2013 "SFD2013") nella [Giornata Mondiale del
+locale](http://old.salug.it/wiki/index.php/SFD2013 "SFD2013") nella [Giornata Mondiale del
 Software
 Libero](http://www.softwarefreedomday.org/ "http://www.softwarefreedomday.org/")
 per celebrare il FOSS (Free and Open Source Software).\
  Tutti i dettagli saranno disponibili nella **[pagina
-dell'evento](http://salug.it/wiki/index.php/SFD2013 "SFD2013")**. \
+dell'evento](http://old.salug.it/wiki/index.php/SFD2013 "SFD2013")**. \
  Scopri [altre Giornate Mondiali del Software Libero
-salentine](http://salug.it/wiki/index.php/SFD "SFD")! \
+salentine](http://old.salug.it/wiki/index.php/SFD "SFD")! \
 \
 
-[![](http://salug.it/wiki/upload/thumb/4/4f/SFD-Banner2013.png/680px-SFD-Banner2013.png)](http://salug.it/wiki/upload/images/SFD-Banner2013.png)\
+[![](images/SFD-Banner2013.png)](images/SFD-Banner2013.png)\
  \
  **Stay tuned** o partecipa anche tu ai lavori in
 [MailingList](http://salug.it/wiki/index.php/MailingList "MailingList")
-[pubblica](https://www.http://salug.it/mailman/listinfo/salug "https://www.http://salug.it/mailman/listinfo/salug").
+[pubblica](https://salug.it/mailman/listinfo/salug "https://salug.it/mailman/listinfo/salug").
 
 
 ## Riunione SaLUG! \~ Giovedi' 5 Settembre 2013, ore 18.30 @ M10 La Stecca - Ecotekne
@@ -269,12 +269,12 @@ per Monteroni, Università del Salento - LECCE**\
  \
 **Vi aspettiamo numerosi e se non potete partecipare seguite le
 discussioni in [MailingList](http://salug.it/wiki/index.php/MailingList "MailingList")
-[pubblica](https://www.http://salug.it/mailman/listinfo/salug "https://www.http://salug.it/mailman/listinfo/salug").**
+[pubblica](https://salug.it/mailman/listinfo/salug "https://salug.it/mailman/listinfo/salug").**
 
 
 ## Geek Evening 0x1E \~ Giovedi' 23 Maggio 2013, ore 21.00 @ Arci Zei
 
-[![](http://salug.it/wiki/upload/thumb/4/45/GeekEvening0x1E.png/220px-GeekEvening0x1E.png)](http://salug.it/wiki/upload/images/GeekEvening0x1E.png)
+[![](images/GeekEvening0x1E.png)](images/GeekEvening0x1E.png)
 
 *data:* **Giovedi' 23 Maggio 2013 \~ ore 21.00**\
 \
@@ -298,7 +298,7 @@ configurazioni di sistema a colpi di vi, bash ed ssh? \
 
 ## Geek Evening 0x1D \~ Giovedi' 21 Febbraio 2013, ore 20.30 @ Arci Zei
 
-[![](http://salug.it/wiki/upload/thumb/6/65/Geek-0x1D.png/220px-Geek-0x1D.png)](http://salug.it/wiki/upload/images/Geek-0x1D.png)
+[![](images/Geek-0x1D.png)](images/Geek-0x1D.png)
 
 *data:* **Giovedi' 21 Febbraio 2013 \~ ore 20.30**\
 \
@@ -332,7 +332,7 @@ Argomenti trattati durante il geek-evening : \
 
 ## Geek Evening 0x1C \~ Martedi' 18 Dicembre 2012, ore 21.00 @ Arci Zei
 
-[![](http://salug.it/wiki/upload/thumb/1/16/Geek-0x1C-locandina.png/220px-Geek-0x1C-locandina.png)](http://salug.it/wiki/upload/images/Geek-0x1C-locandina.png)
+[![](images/Geek-0x1C-locandina.png)](images/Geek-0x1C-locandina.png)
 
 *data:* **Martedi' 18 Dicembre 2012 \~ ore 21.00**\
 \
@@ -353,7 +353,7 @@ firmware-only del protocollo USB 1.1 \
 
 ## GNU/Linux Day 2012
 
-[![](http://salug.it/wiki/upload/thumb/b/ba/LocandinaLD2012.png/180px-LocandinaLD2012.png)](http://salug.it/wiki/upload/images/LocandinaLD2012.png)
+[![](images/LocandinaLD2012.png)](images/LocandinaLD2012.png)
 
 Ci siamo! Siete pronti a vivere il nostro GNU/Linux Day? Il tema di
 quest'anno è *"Il Software Libero nella Piccola e Media Impresa"*. \
@@ -366,12 +366,12 @@ fest, LAN party e postazioni dimostrative la festa di GNU/Linux e del
 software libero diventa un appuntamento immancabile!
 
 Per consultare il programma della manifestazione visitare la [pagina
-apposita](http://salug.it/wiki/index.php/LinuxDay12 "LinuxDay12").
+apposita](http://old.salug.it/wiki/index.php/LinuxDay12 "LinuxDay12").
 
 
 ## GNU/Linux Day 2011
 
-[![](http://salug.it/wiki/upload/thumb/c/ca/Locandina_LD2011.png/180px-Locandina_LD2011.png)](http://salug.it/wiki/upload/images/Locandina_LD2011.png)
+[![](images/Locandina_LD2011.png)](images/Locandina_LD2011.png)
 
 Il GNU/Linux Day è alle porte, carico di novita' e con un programma
 esplosivo! \
@@ -392,7 +392,7 @@ GNU/Linux portate i vostri computer, non ve ne pentirete!
 
 E' possibile consultare il programma completo e le **slide** della
 manifestazione visitando la [pagina
-dedicata](http://salug.it/wiki/index.php/LinuxDay11 "LinuxDay11").
+dedicata](http://old.salug.it/wiki/index.php/LinuxDay11 "LinuxDay11").
 
 Sarà inoltre possibile seguire l'evento in Streaming sul portale
 Galatina2000, visitando [questo
@@ -400,7 +400,7 @@ link](http://www.galatina2000.it/Cronaca/il-gnulinux-day-del-salento-2011-si-tra
 
 ## Geek Evening 0x1b - SuperTuxKart
 
-[![](http://salug.it/wiki/upload/thumb/1/1e/Geek_evening_stk.png/130px-Geek_evening_stk.png)](http://salug.it/wiki/upload/images/Geek_evening_stk.png)
+[![](images/Geek_evening_stk.png)](images/Geek_evening_stk.png)
 
 Si e' tenuto ieri il nostro ventiquattresimo **geek evening**! E' stato
 un evento riservato soltanto ai soci dell'associazione (per motivi
@@ -410,14 +410,14 @@ Oggetto del G.E. e' stata la creazione di kart e personaggi per il
 celebre gioco **SuperTuxKart**, clone libero di Mario Kart.
 
 E' possibile scaricare le slide del geek evening da
-[qui](http://salug.it/~public/geek%20evening/GE-0x1B-supertuxkart/slides.pdf "http://salug.it/~public/geek%20evening/GE-0x1B-supertuxkart/slides.pdf")
+[qui](http://old.salug.it/~public/geek%20evening/GE-0x1B-supertuxkart/slides.pdf "http://old.salug.it/~public/geek%20evening/GE-0x1B-supertuxkart/slides.pdf")
 e visualizzare le foto della serata a questo
 [link](http://193.204.77.24/public/eventi/index.php?sfpg=R2Vla19FdmVuaW5nLzB4MWJfU3VwZXJUdXhLYXJ0LyoqMDdlOTlkZDgyNDYyZmUwODFkMzBhODNmZGVmODRmM2U "http://193.204.77.24/public/eventi/index.php?sfpg=R2Vla19FdmVuaW5nLzB4MWJfU3VwZXJUdXhLYXJ0LyoqMDdlOTlkZDgyNDYyZmUwODFkMzBhODNmZGVmODRmM2U").
 
 
 ## Quinto corso sul Software Libero
 
-[![](http://salug.it/wiki/upload/thumb/c/c3/Corso2011.png/120px-Corso2011.png)](http://salug.it/wiki/upload/images/Corso2011.png)
+[![](images/Corso2011.png)](images/Corso2011.png)
 
 Iniziera' il **9 giugno** la quinta edizione del nostro ormai
 collaudatissimo corso sul software libero.
@@ -432,13 +432,13 @@ confidenza con GNU/Linux e i software che ci mette a disposizione!
 
 ## Nuovo numero del SaLUG! Journal!
 
-[![](http://salug.it/wiki/upload/thumb/6/60/SJ-0x0b-00.png/130px-SJ-0x0b-00.png)](http://salug.it/wiki/upload/images/SJ-0x0b-00.png)
+[![](images/SJ-0x0b-00.png)](images/SJ-0x0b-00.png)
 
 E' uscito il nuovo numero della nostra e-zine su hack, notizie e
 curiosita' dal mondo del software libero!
 
 [Scaricalo
-subito!](http://www.http://salug.it/~public/journal/SJ-0x0b/SJ-0x0b.pdf "http://www.http://salug.it/~public/journal/SJ-0x0b/SJ-0x0b.pdf")
+subito!](http://old.salug.it/~public/journal/SJ-0x0b/SJ-0x0b.pdf "http://old.salug.it/~public/journal/SJ-0x0b/SJ-0x0b.pdf")
 
 Gli articoli presenti sono:
 
@@ -460,7 +460,7 @@ Per saperne di piu' visita la pagina
 ufficialmente il **laboratorio di Software Libero** realizzato dal
 **SaLUG!** nell'**Aula m10** della Facolta' di Ingegneria.
 
-[![](http://salug.it/wiki/upload/thumb/b/b5/M10.png/400px-M10.png)](http://salug.it/wiki/upload/images/M10.png)
+[![](images/M10.png)](images/M10.png)
 
 Il laboratorio sara' aperto a tutti gli studenti della Facolta' di
 Ingegneria! Al suo interno troverete tanti computer dotati di Software
@@ -497,9 +497,9 @@ mancate!!! Maggiori dettagli nelle prossime ore, restate sintonizzati!!!
 
 Scarica subito il comunicato stampata: [Comunicato Stampata - SaLUG!
 meets
-Stallman](http://www.http://salug.it/public/eventi/stallman/comunicato_stampa.pdf "http://www.http://salug.it/public/eventi/stallman/comunicato_stampa.pdf")
+Stallman](http://salug.it/public/eventi/stallman/comunicato_stampa.pdf "http://salug.it/public/eventi/stallman/comunicato_stampa.pdf")
 
-[![](http://salug.it/wiki/upload/thumb/8/87/Rms2.png/400px-Rms2.png)](http://salug.it/wiki/upload/images/Rms2.png)
+[![](images/Rms2.png)](images/Rms2.png)
 
 [Gallery
 dell'evento](http://193.204.77.24/public/eventi/index.php?sfpg=U2FMVUdfbWVldHNfU3RhbGxtYW4vKio2ZDdlMDhhMmM0ZGEzYzQ2MjEzZDc2OWI4MjZlZTM2ZA "http://193.204.77.24/public/eventi/index.php?sfpg=U2FMVUdfbWVldHNfU3RhbGxtYW4vKio2ZDdlMDhhMmM0ZGEzYzQ2MjEzZDc2OWI4MjZlZTM2ZA")
@@ -508,7 +508,7 @@ dell'evento](http://193.204.77.24/public/eventi/index.php?sfpg=U2FMVUdfbWVldHNfU
 
 Ragazzi ce l'abbiam fatta, eccoci insieme a RMS in quel di Bari!!!
 
-[![](http://salug.it/wiki/upload/thumb/a/a0/Noi_e_stallman.jpg/400px-Noi_e_stallman.jpg)](http://salug.it/wiki/upload/images/Noi_e_stallman.jpg)
+[![](images/Noi_e_stallman.jpg)](images/Noi_e_stallman.jpg)
 
 E' proprio lui, e sta davvero leggendo il nostro journal!!! :) Altre
 foto nella
