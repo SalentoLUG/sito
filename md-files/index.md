@@ -1,5 +1,48 @@
 # Home
 
+## Secure NDC
+
+[![](images/locandina-securendc.png)](images/locandina-securendc.png)
+
+Informatica e Matematica sono due campi estremamente affini tra loro...ma spesso "quando si incontrano non si salutano".
+
+Per questo motivo abbiamo invitato entrambi ("Informatica" e "Matematica") a ZEI per un nuovo GeekEvening:
+
+"SecureNDC - Minimizing transitive trust threads in Software Management"
+20 Gennaio 2016 - Start 20.00
+Spazio Sociale ZEI - Corte dei Chiaramonte, 2 - Lecce
+
+Dopo i simpatici Advisory che ci hanno accompagnato nell'ultimo periodo (Heartbleed, Shellshock e GHOST) non possiamo non essere interessati ai problemi di Trust tra i repository abilitati sui nostri sistemi.
+
+... ed il caso d'uso di questa ricerca non poteva che essere il fido "apt-get"
+
+Ai controlli avremo: Giuseppe Primiero, ricercatore nell'ambito della Filosofia della Logica e lettore della facolta di Computer Science alla Middlesex University a Londra
+
+Quindi... ricapitolando:
+- matematica ed informatica si faranno una chiacchierata e prenderanno unabirra insieme a ZEI
+- ci saranno cenni a Coq, un "formal machine-checked proofs system" coperto da licenza GPLv2
+- ci sarà "apt-get", invitato nel ruolo di "caso d'uso"
+
+
+## Collettivo Ippolita - Tecnologie del dominio. Tecnologie condivisione
+
+[![](images/locandina-collettivo-ippolita.jpg)](images/locandina-collettivo-ippolita.jpg)
+
+Ippolita è un gruppo di ricerca interdisciplinare attivo dal 2005.
+Conduce una riflessione ad ampio raggio sulle ‘tecnologie del dominio’ e i loro effetti sociali. Pratica scritture conviviali in testi a circolazione trasversale, dal sottobosco delle comunità hacker alle aule universitarie. Tra i saggi pubblicati: Open non è free. Comunità digitali tra etica hacker e mercato globale (Elèuthera 2005); Luci e ombre di Google (Feltrinelli 2007, tradotto in francese, spagnolo e inglese); Nell’acquario di Facebook (Ledizioni 2013, tradotto in francese, spagnolo e inglese); La Rete è libera e democratica. FALSO! (Laterza 2014).
+
+La governance digitale si basa sulla sollecitazione di perversi circuiti di piacere che promuovono l'addestramento ovvero l'obbedienza automatizzata tramite la gamificazione dello spazio pubblico e privato.
+Tutto diventa un gioco, soprattutto i giochi mortali di guerra, con piani, alleanze, strategie, flussi, livelli, zone rosse, aree sensibili,dati segreti, obiettivi, indici di pericolo... tutto è sotto controllo,monitorato, e la sensazione di insicurezza dilaga insieme al gergo militaresco. I numeri e le statistiche giustificano ogni cosa senza spiegare nulla, si accumulano come i punti di un gioco assurdo. Ma è possibile sottrarsi all'infantilizzazione che ci rende succubi degli oracoli mediatici, della banalità del male quotidiano. Si tratta innanzitutto di imparare a valorizzarci senza misurarci, evitando il confrondo competitivo, senza quantificare in termini numerici ogni nostra attività e relazione. Condividere senza delegare ad altri l'organizzazione delle nostre vite. Perchè la democrazia e la convivenza, come tutte le relazioni, non sono problemi da risolvere con l'algoritmo perfetto, ma processi da vivere.
+
+
+## Ansible - the hidden track
+
+[![](images/locandina-ansible.png)](images/locandina-ansible.png)
+
+Tool di SystemAutomation come Ansible non sono qualcosa di riservato esclusivamente a chi amministra i centinaia di sistemi di un servizio web, puo' essere anche il modo di condividere piccole procedure di configurazioni di servizi casalinghi. In questo seminario vediamo ansible all'opera proprio in questo scenario: esporre i servizi della propria RaspberryPi ai propri dispositivi quando non siamo a casa, iltutto senza aprire nemmeno una porta sul router grazie all'utilizzo di una funzionalità di Tor poco conosciuta: gli HiddenService con
+autenticazione.
+
+
 ## Apple-1 wants to be rebuilt
 
 [![](images/locandina-museo.jpg)](images/locandina-museo.jpg)
