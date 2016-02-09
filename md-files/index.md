@@ -1,5 +1,26 @@
 # Home
 
+## Baobáxia: Connecting off-line afro-brazilian communities with free software
+
+[![](images/locandina-baobaxia.png)](images/locandina-baobaxia.png)
+
+**Baobáxia** is a community-built project to connect about 200 Brazilian quilombos to assist the interchange and preservation
+of traditional, community-built culture.
+
+<br>
+Speaker dell'evento : **Vincenzo Tozzi**
+
+Hacker siculo-brasiliano del Nucleo di Ricerca e Sviluppo Digitale della Rede Mocambos, vice direttore della Casa de Cultura
+Tainã e abitante e attivista dell'occupazione e comunità culturale Mercado Sul Vive.
+
+<br>
+L'evento si terra' presso lo Spazio Sociale Zei in Corte dei Chiaramonte, 2 - Lecce
+<br><br>
+
+Evento : [https://www.facebook.com/events/472206219653639/](https://www.facebook.com/events/472206219653639/)
+
+More info : [http://baobaxia.mocambos.net/](http://baobaxia.mocambos.net/)
+
 ## Secure NDC
 
 [![](images/locandina-securendc.png)](images/locandina-securendc.png)
