@@ -44,6 +44,10 @@ Quindi... ricapitolando:
 - ci saranno cenni a Coq, un "formal machine-checked proofs system" coperto da licenza GPLv2
 - ci sarà "apt-get", invitato nel ruolo di "caso d'uso"
 
+---
+
+[Presentazione - PDF](files/securendc-presentation.pdf)
+
 
 ## Collettivo Ippolita - Tecnologie del dominio. Tecnologie condivisione
 
