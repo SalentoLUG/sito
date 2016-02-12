@@ -1,5 +1,18 @@
 # Home
 
+## Geek Evening 0x23 - AngularJS
+
+[![](images/locandina-angularjs.png)](images/locandina-angularjs.png)
+
+AngularJS è un framework JavaScript per lo sviluppo di applicazioni Web client side. Pur essendo relativamente giovane (la versione 1.0 è stata rilasciata nel 2012), il progetto ha riscosso un notevole successo dovuto all’approccio di sviluppo proposto e all’infrastruttura fornita che incoraggia l’organizzazione del codice e la separazione dei compiti nei vari componenti. Non è tuttavia da sottovalutare l’influenza che ha avuto nel successo di Angular il fatto che sia supportato da Google.
+
+In questa serata Stefano Larini (aka Donkey) ci introdurra' all'utilizzo di AngularJS per lo sviluppo di applicazione web di ultima generazione.
+
+Tra esempi, codice, chiacchiere e birrette analizzeremo insieme questo nuovo framework javascript di cui tanto si parla!
+
+More info : [https://angularjs.org/](https://angularjs.org/)
+
+
 ## Baobáxia: Connecting off-line afro-brazilian communities with free software
 
 [![](images/locandina-baobaxia.png)](images/locandina-baobaxia.png)
