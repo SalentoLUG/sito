@@ -1,6 +1,6 @@
 # Home
 
-## Geek Evening 0x23 - AngularJS
+## Geek Evening 0x24 - AngularJS
 
 [![](images/locandina-angularjs-low.gif)](images/locandina-angularjs.png)
 
