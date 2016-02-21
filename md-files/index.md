@@ -2,7 +2,7 @@
 
 ## Geek Evening 0x23 - AngularJS
 
-[![](images/locandina-angularjs.png)](images/locandina-angularjs.png)
+[![](images/locandina-angularjs-low.gif)](images/locandina-angularjs.png)
 
 AngularJS è un framework JavaScript per lo sviluppo di applicazioni Web client side. Pur essendo relativamente giovane (la versione 1.0 è stata rilasciata nel 2012), il progetto ha riscosso un notevole successo dovuto all’approccio di sviluppo proposto e all’infrastruttura fornita che incoraggia l’organizzazione del codice e la separazione dei compiti nei vari componenti. Non è tuttavia da sottovalutare l’influenza che ha avuto nel successo di Angular il fatto che sia supportato da Google.
 
@@ -15,7 +15,7 @@ More info : [https://angularjs.org/](https://angularjs.org/)
 
 ## Baobáxia: Connecting off-line afro-brazilian communities with free software
 
-[![](images/locandina-baobaxia.png)](images/locandina-baobaxia.png)
+[![](images/locandina-baobaxia-low.gif)](images/locandina-baobaxia.png)
 
 **Baobáxia** is a community-built project to connect about 200 Brazilian quilombos to assist the interchange and preservation
 of traditional, community-built culture.
@@ -36,7 +36,7 @@ More info : [http://baobaxia.mocambos.net/](http://baobaxia.mocambos.net/)
 
 ## Secure NDC
 
-[![](images/locandina-securendc.png)](images/locandina-securendc.png)
+[![](images/locandina-securendc-low.png)](images/locandina-securendc.png)
 
 Informatica e Matematica sono due campi estremamente affini tra loro...ma spesso "quando si incontrano non si salutano".
 
@@ -75,7 +75,7 @@ Tutto diventa un gioco, soprattutto i giochi mortali di guerra, con piani, allea
 
 ## Ansible - the hidden track
 
-[![](images/locandina-ansible.png)](images/locandina-ansible.png)
+[![](images/locandina-ansible-low.png)](images/locandina-ansible.png)
 
 Tool di SystemAutomation come Ansible non sono qualcosa di riservato esclusivamente a chi amministra i centinaia di sistemi di un servizio web, puo' essere anche il modo di condividere piccole procedure di configurazioni di servizi casalinghi. In questo seminario vediamo ansible all'opera proprio in questo scenario: esporre i servizi della propria RaspberryPi ai propri dispositivi quando non siamo a casa, iltutto senza aprire nemmeno una porta sul router grazie all'utilizzo di una funzionalità di Tor poco conosciuta: gli HiddenService con
 autenticazione.
@@ -83,7 +83,7 @@ autenticazione.
 
 ## Apple-1 wants to be rebuilt
 
-[![](images/locandina-museo.jpg)](images/locandina-museo.jpg)
+[![](images/locandina-museo-low.jpg)](images/locandina-museo.jpg)
 
 Freaknet e Verdebinario ci presenteranno i loro musei, il MusIF (Museo dell'Informatica Funzionante) di Palazzolo Acreide e il MIAI (Museo Interattivo di Archeologia Informatica) di Cosenza, le tecniche con le quali hanno riportato in vita pezzi di "archeologia informatica"... o come li hanno ricostruiti dai progetti originali.
 
@@ -100,7 +100,7 @@ Museo Interattivo di Archeologia Informatica
 
 ## **Eric Leblond**, free software e network security hacker, co-foundatore di Stamus Networks, core team member in Linux Nftables e developer in Suricata IDS.
 
-[![](images/Locandina-Eric.png)](images/Locandina-Eric.png)
+[![](images/Locandina-Eric-low.png)](images/Locandina-Eric.png)
 
 COSA : Doppio seminario su NFtables e SURICATA IDS 2.0 \
  QUANDO : Lunedi' 16 Febbraio 2015 alle ore 19.00 \
@@ -130,7 +130,7 @@ che puo' essere effettuata allo stesso indirizzo riportato sopra\
 
 ## Il mio amico computer - Corso Base Teorico/Pratico @ Spazio Sociale Zei
 
-[![](images/Locandina-corso-zei-2014.png)](images/Locandina-corso-zei-2014.png)
+[![](images/Locandina-corso-zei-2014-low.png)](images/Locandina-corso-zei-2014.png)
 
 \
  **Corso Teorico e Pratico sull'uso del Computer**\
@@ -183,7 +183,7 @@ giornate no stop!
 
 ## Geek Evening 0x1F - Mercoledi' 4 Dicembre 2013, ore 18.30 @ Arci Zei
 
-[![](images/Locandina_ge0x1f_800x.png)](images/Locandina_ge0x1f_800x.png)
+[![](images/Locandina_ge0x1f_800x-low.png)](images/Locandina_ge0x1f_800x.png)
 
 *date:* **Mercoledi' 4 Dicembre 2013 \~ ore 18.30**\
 \
@@ -230,7 +230,7 @@ discussioni in [MailingList](http://old.salug.it/wiki/index.php/MailingList "Mai
 
 ## GNU/Linux Day 2013
 
-[![](images/LocandinaLD2013.png)](images/LocandinaLD2013.png)
+[![](images/LocandinaLD2013-low.png)](images/LocandinaLD2013.png)
 
 Il GNU/Linux Day è alle porte! Siete pronti? \
 \
@@ -312,7 +312,7 @@ discussioni in [MailingList](http://salug.it/wiki/index.php/MailingList "Mailing
 
 ## Geek Evening 0x1E \~ Giovedi' 23 Maggio 2013, ore 21.00 @ Arci Zei
 
-[![](images/GeekEvening0x1E.png)](images/GeekEvening0x1E.png)
+[![](images/GeekEvening0x1E-low.png)](images/GeekEvening0x1E.png)
 
 *data:* **Giovedi' 23 Maggio 2013 \~ ore 21.00**\
 \
@@ -336,7 +336,7 @@ configurazioni di sistema a colpi di vi, bash ed ssh? \
 
 ## Geek Evening 0x1D \~ Giovedi' 21 Febbraio 2013, ore 20.30 @ Arci Zei
 
-[![](images/Geek-0x1D.png)](images/Geek-0x1D.png)
+[![](images/Geek-0x1D-low.png)](images/Geek-0x1D.png)
 
 *data:* **Giovedi' 21 Febbraio 2013 \~ ore 20.30**\
 \
@@ -391,7 +391,7 @@ firmware-only del protocollo USB 1.1 \
 
 ## GNU/Linux Day 2012
 
-[![](images/LocandinaLD2012.png)](images/LocandinaLD2012.png)
+[![](images/LocandinaLD2012-low.png)](images/LocandinaLD2012.png)
 
 Ci siamo! Siete pronti a vivere il nostro GNU/Linux Day? Il tema di
 quest'anno è *"Il Software Libero nella Piccola e Media Impresa"*. \
@@ -409,7 +409,7 @@ apposita](http://old.salug.it/wiki/index.php/LinuxDay12 "LinuxDay12").
 
 ## GNU/Linux Day 2011
 
-[![](images/Locandina_LD2011.png)](images/Locandina_LD2011.png)
+[![](images/Locandina_LD2011-low.png)](images/Locandina_LD2011.png)
 
 Il GNU/Linux Day è alle porte, carico di novita' e con un programma
 esplosivo! \
@@ -438,7 +438,7 @@ link](http://www.galatina2000.it/Cronaca/il-gnulinux-day-del-salento-2011-si-tra
 
 ## Geek Evening 0x1b - SuperTuxKart
 
-[![](images/Geek_evening_stk.png)](images/Geek_evening_stk.png)
+[![](images/Geek_evening_stk-low.png)](images/Geek_evening_stk.png)
 
 Si e' tenuto ieri il nostro ventiquattresimo **geek evening**! E' stato
 un evento riservato soltanto ai soci dell'associazione (per motivi
@@ -455,7 +455,7 @@ e visualizzare le foto della serata a questo
 
 ## Quinto corso sul Software Libero
 
-[![](images/Corso2011.png)](images/Corso2011.png)
+[![](images/Corso2011-low.png)](images/Corso2011.png)
 
 Iniziera' il **9 giugno** la quinta edizione del nostro ormai
 collaudatissimo corso sul software libero.
@@ -470,7 +470,7 @@ confidenza con GNU/Linux e i software che ci mette a disposizione!
 
 ## Nuovo numero del SaLUG! Journal!
 
-[![](images/SJ-0x0b-00.png)](images/SJ-0x0b-00.png)
+[![](images/SJ-0x0b-00-low.png)](images/SJ-0x0b-00.png)
 
 E' uscito il nuovo numero della nostra e-zine su hack, notizie e
 curiosita' dal mondo del software libero!
@@ -498,7 +498,7 @@ Per saperne di piu' visita la pagina
 ufficialmente il **laboratorio di Software Libero** realizzato dal
 **SaLUG!** nell'**Aula m10** della Facolta' di Ingegneria.
 
-[![](images/M10.png)](images/M10.png)
+[![](images/M10-low.png)](images/M10.png)
 
 Il laboratorio sara' aperto a tutti gli studenti della Facolta' di
 Ingegneria! Al suo interno troverete tanti computer dotati di Software
@@ -537,7 +537,7 @@ Scarica subito il comunicato stampata: [Comunicato Stampata - SaLUG!
 meets
 Stallman](http://salug.it/public/eventi/stallman/comunicato_stampa.pdf "http://salug.it/public/eventi/stallman/comunicato_stampa.pdf")
 
-[![](images/Rms2.png)](images/Rms2.png)
+[![](images/Rms2-low.png)](images/Rms2.png)
 
 [Gallery
 dell'evento](http://193.204.77.24/public/eventi/index.php?sfpg=U2FMVUdfbWVldHNfU3RhbGxtYW4vKio2ZDdlMDhhMmM0ZGEzYzQ2MjEzZDc2OWI4MjZlZTM2ZA "http://193.204.77.24/public/eventi/index.php?sfpg=U2FMVUdfbWVldHNfU3RhbGxtYW4vKio2ZDdlMDhhMmM0ZGEzYzQ2MjEzZDc2OWI4MjZlZTM2ZA")
