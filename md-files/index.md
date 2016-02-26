@@ -2,7 +2,7 @@
 
 ## Geek Evening 0x25 - Machine Learning and Data Mining
 
-[![](images/geek/geekmldm.png)](images/geek/geekmldm-low.png)
+[![](images/geek/geekmldm-low.png)](images/geek/geekmldm.png)
 
 La differenza tra un uomo e una macchina e' la capacita' di imparare e grazie all'accumulo di una quantita' enorme di informazioni da internet, l'uomo ha bisogno di una mano... da una macchina cognitiva che li sappia elaborare.
 
