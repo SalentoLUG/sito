@@ -1,5 +1,15 @@
 # Home
 
+## Geek Evening 0x25 - Machine Learning and Data Mining
+
+[![](images/geek/geekmldm.png)](images/geek/geekmldm-low.png)
+
+La differenza tra un uomo e una macchina e' la capacita' di imparare e grazie all'accumulo di una quantita' enorme di informazioni da internet, l'uomo ha bisogno di una mano... da una macchina cognitiva che li sappia elaborare.
+
+Il data mining è l'insieme di tecniche e metodologie che hanno per oggetto l'estrazione di un sapere o di una conoscenza a partire da grandi quantità di dati (attraverso metodi automatici o semi-automatici) e l'utilizzo scientifico, industriale o operativo di questo sapere.
+
+In questo talk **Giacomo Chiarella** presentera' i prerequisiti per introdurre questa azione in un computer.
+
 ## Geek Evening 0x24 - AngularJS
 
 [![](images/locandina-angularjs-low.gif)](images/locandina-angularjs.png)
