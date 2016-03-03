@@ -1,0 +1,447 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="italian" xml:lang="italian">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+        <meta name="author" content="Angelo D’Autilia" />
+            <title>SaLUG! - Geek Evening</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.css" />
+
+        <link rel="stylesheet" href="css/custom.css" type="text/css" />
+        <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
+
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">SaLUG!</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Eventi <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="LinuxDay.html">GNU/Linux Day</a></li>
+                <li><a href="#">Geek Evening</a></li>
+                <li><a href="Eventi.html">Calendario</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Progetti <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">SaLUG! Journal</a></li>
+                <li><a href="#">Corso GNU/Linux</a></li>
+                <li><a href="#">Hacking</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">Documentazione</a></li>
+                <li><a href="#">FreeDOS doc</a></li>
+                <li><a href="#">Humor</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Associazione <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="Associazione/">L'Associazione Culturale</a></li>
+                <li><a href="Associazione/Riunioni.html">Riunioni</a></li>
+                <li><a href="Mappa.html">Mappa del LUG</a></li>
+              </ul>
+            </li>
+            <li><a href="Contatti.html">Contatti</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+      <div class="container">
+        <div class="row">
+         <div class="col-sm-3">
+           <div class="logo">
+             <img class="logo-img" src="images/logo.png">
+           </div>
+                      <div class="well toc">
+             <ul>
+               <li class="nav-header">Sommario</li>
+             </ul>
+                <ul>
+                <li><a href="#cosa-sono"><span class="toc-section-number">1</span> Cosa sono?</a></li>
+                <li><a href="#sessioni-gia-svolte"><span class="toc-section-number">2</span> Sessioni gia’ svolte</a></li>
+                <li><a href="#locandine"><span class="toc-section-number">3</span> Locandine</a></li>
+                </ul>
+           </div>
+                  </div>
+
+        <div class="col-sm-9 content">
+            <h1>Geek Evening</h1>
+
+                    <h1 id="cosa-sono"><a href="#cosa-sono"><span class="header-section-number">1</span> Cosa sono?</a></h1>
+<p>Continuano i seminari di approfondimento organizzati dal SaLUG! Di cosa si parliamo? I Geek Evening non sono altro che dei tardi pomeriggi passati insieme, in allegria, a chiaccherare un po’ di tutti gli argomenti che piu’ stuzzicano la nostra fantasia da geek e che vogliamo condividere con gli altri.</p>
+<p>Come gli scorsi anni gli appuntamenti inizieranno con una breve presentazione dell’argomento della giornata (con relative slideshow), per poi lasciar spazio a dubbi/domande/impressioni dei partecipanti.</p>
+<p>Gli appuntamenti si svolgono solitamente presso lo <strong>Spazio Sociale ZEI</strong> o presso la <strong>Facolta’ di Ingegneria dell’Universita’ del Salento</strong>.</p>
+<p>Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trattati se siete volenterosi di saziare la vostra sana curiosita’!!!</p>
+<h1 id="sessioni-gia-svolte"><a href="#sessioni-gia-svolte"><span class="header-section-number">2</span> Sessioni gia’ svolte</a></h1>
+<ul>
+<li>HackingSession : 12 gen 2007, Sniffing, filtering e Analisi del traffico di Rete by ripley</li>
+<li>Geekevening 0x01 : 19 gen 2007, BazaarNG e i sistemi di revisione (need mozilla firefox) by ripley</li>
+<li>Geekevening 0x02e0x03 : 02e09 feb 2007, Il Kernel Linux by carlopalma</li>
+<li>HackingSession : 2 mar 2007, Fonera hack! by much0</li>
+<li>Geekevening 0x04 : 24 mag 2007, Emacs by desmovalvo</li>
+<li>Geekevening 0x05 : 11 ott 2007, Inkscape e grafica vettoriale by desmovalvo</li>
+<li>Geekevening 0x06 : 18 ott 2007, OpenGL e compiz fusion by carlopalma</li>
+<li>Geekevening 0x07 : 8 nov 2007, Set Up Your Creativity</li>
+<li>Geekevening 0x08 : 16 gen 2008 Emacs Lisp Session by desmovalvo
+<ul>
+<li>rapida introduzione a GNU/Emacs</li>
+<li>come diventare subito produttivi</li>
+<li>personalizzare Emacs facilmente (customize)</li>
+<li>introduzione all’Elisp</li>
+<li>personalizzazione di Emacs in geek-mode (cioè redigendo manualmente il proprio ~/.emacs)</li>
+<li>hacking-time ;)</li>
+</ul></li>
+<li>Geekevening 0x09 : 23 gen 2008, Mozilla from inside by ripley
+<ul>
+<li>Firefox e gli altri progetti Mozilla visti dall’interno: Come sono sviluppati, quali sono le tecnologie che li compongono?</li>
+<li>Vision - Next Generation Web Application: la linea che separa le Web Application dalle applicazioni desktop diventa ogni giorno meno netta, Adobe, Google e Microsoft ci stanno puntano molto ultimamente, ma il progetto Mozilla e’ pronto gia’ da tempo</li>
+<li>Javascript as in Real Programming Language: Javascript e’ un vero e proprio linguaggio di programmazione… uno dei piu’ incompresi purtroppo… ma le cose stanno cambiando, proviamo a guardare a Javascript in modo diverso, come ad un vero linguaggio</li>
+<li>Sviluppare in Javascript con/per Mozilla: come e’ possibile analizzare gli internals di Mozilla con Javascript?</li>
+</ul></li>
+<li>Geekevening 0x0A : 21 feb 2008, KICAD e circuti stampati (PCB) by Fabio Mercuri
+<ul>
+<li>Progettazione/disegno di PCB con KICAD</li>
+<li>Realizzazione di un circuito controllato dalla porta parallela</li>
+<li>Introduzione alla realizzazione di PCB “casalinghi”</li>
+</ul></li>
+<li>Geekevening 0x0B : 28 feb 2008 :e “VIM the editor” by Haku</li>
+<li>Geekevening 0x0C : 13 mar 2008 Unix Network Programming: un caso umano pratico by Vlad
+<ul>
+<li>Introduzione (molto) basilare alle socket</li>
+<li>Presentazione del programma TCP Multiplexer</li>
+<li>Sviluppi futuri, idee, tips&amp;tricks</li>
+<li>Per info sul TCPMUX: http://en.wikipedia.org/wiki/TCPMUX</li>
+<li>Per scaricare i sorgenti di TCPMUX: http://sourceforge.net/projects/tcpmultiplexer</li>
+</ul></li>
+<li>Geekevening 0x0D : 20 mar 2008, POSIX Systems Programming by Lord_Dex</li>
+<li>Geekevening 0x0E : 15 mag 2008, Jamendo, open your ears by desmovalvo&amp;sydro - Slide sYdRo
+<ul>
+<li>Jamendo e la musica Creative Commons</li>
+<li>Le Api di Jamendo</li>
+<li>Plugin per Emacs (visione del codice)</li>
+<li>Plugin per Audacious (visione del codice)</li>
+</ul></li>
+<li>Geekevening 0x0F : 22 mag 2008, Fonera Hack! 2 by much0</li>
+<li>Hacking: come abilitare l’accesso via SSH e come usare la porta seriale;
+<ul>
+<li>Flashing: come riflashare il firmware del dispositivo per inserire una distro GNU/Linux minimale, dotata dei tool che vogliamo;</li>
+<li>Modding: come aggiungere altri componenti (una seconda antenna, SD-Card, fan cooling) per trasformare la Fonera in un router dalle capacitá<br /> eccezionali!</li>
+<li>Materiale prodotto:</li>
+<li>Slides (5.6 MB), Slides’ sources (59 MB)</li>
+<li>Foto del convertitore RS232-TTL</li>
+<li>Locandina (PDF), Locandina (PNG)</li>
+</ul></li>
+<li>Geekevening 0x10 : 11e12 giu 2008 GNU/Hurd - The GNU Operating System by desmovalvo
+<ul>
+<li>Cos’e’ Hurd</li>
+<li>Microkernel vs kernel monolitici</li>
+<li>Distribuzioni Hurd</li>
+<li>qEmulazione</li>
+<li>Installazione</li>
+<li>Configurazione</li>
+<li>Translators</li>
+</ul></li>
+<li>Geekevening 0x11 : 15 ott 2008 Eclipse e AJAX by bruno
+<ul>
+<li>(…come costruire una web application usando il tool di sviluppo Eclipse, il web server Tomcat e le librerie DWR (Direct Web Remoting), un’implementazione di Ajax che sfrutta Java come framework lato server)</li>
+<li>Come funziona Ajax</li>
+<li>Utilizzare Eclipse e Tomcat</li>
+<li>Configurazione di DWR in un progetto Eclipse</li>
+<li>Verifica del corretto funzionamento di DWR</li>
+<li>Utilizzo di DWR in una pagina web</li>
+<li>Esempio : facciamo una chat</li>
+</ul></li>
+<li>Geekevening 0x12 : 19 nov 2008 Wii… &amp;&amp; GNU/Linux by desmovalvo e ripley
+<ul>
+<li>(un incontro ravvicinato col wiimote di Nintendo: molto piu’ di un joystick!… potreste addirittura utilizzarlo come telecomando, trasformarlo in un strumento musicale o nell’accelleratore di una moto virtuale!)</li>
+<li>Slides - Hardware Dissection (615KB)</li>
+<li>Slides - python wiimote scripting (HTML)</li>
+<li>Blog Post - Just4fun: python-wiimote-control</li>
+<li>python-wiimote-control sources</li>
+</ul></li>
+<li>Geekevening 0x13 : 18 feb 2009 Emacs: Powerful Development Tool by desmovalvo
+<ul>
+<li>Come configurare Emacs per farlo diventare un potente ambiente di sviluppo. Fra le features da aggiungere al nostro Emacs: Code Folding, Snippet, Code Bookmarking, Code completion, Compilazione, Debugging, Versioning, e tantissimo altro ancora!)</li>
+<li>Slides (714KB)</li>
+</ul></li>
+<li>Geekevening 0x14 : 11 mar 2009 DVCS: repeat after me… I will use a DVCS by ripley
+<ul>
+<li>Rapida introduzione ai VCS/DVCS e confronto delle operazioni più semplici (sviluppo solitario) sui 3 sistemi attualmente più diffusi: BZR, GIT, HG</li>
+<li>Slides (HTML)</li>
+</ul></li>
+<li>Geek Evening 0x15: Gimp &amp;&amp; Script-Fu by desmovalvo
+<ul>
+<li>Breve introduzione a The Gimp</li>
+<li>Introduzione a Scheme</li>
+<li>Presentazione degli strumenti di sviluppo usati</li>
+<li>Funzioni piu’ interessanti per gli Script-fu</li>
+<li>Practice!</li>
+<li>Materiale: slides &amp; plugin</li>
+</ul></li>
+<li>Geek Evening 0x16: X-Kit - Strumenti di Configurazione Avanzata di X.Org by Alberto Milone, Ubuntu developer
+<ul>
+<li>Grazie ad X-Kit è possibile creare e modificare in maniera automatizzata il file di configurazione del server grafico Xorg: in questo geek-evening si sono affrontate le applicazioni pratiche presenti in Ubuntu.</li>
+</ul></li>
+<li>Geek Evening 0x17: Creazione di plugin per Wireshark by f3nix
+<ul>
+<li>Remo Tomasi (f3nix) ha condiviso con noi la sua esperienza nell’utilizzo di Wireshark e nella scrittura di plugin per questo noto software. La prima parte e’ stata teorica sulle basi necessarie a scriptare e la seconda pratica sull’utilizzo di un plugin self-made ;)</li>
+<li>Materiale: slides, source code</li>
+</ul></li>
+<li>Geek Evening 0x18: Blender by gux
+<ul>
+<li>Marco Pagliara (gux) ha presentato blender, il famoso programma di grafica 3D, illustrando la sua interfaccia e numerose delle sue features.</li>
+<li>Materiale: slides</li>
+<li>Blender Manual</li>
+<li>Precision Modelling with Blender</li>
+</ul></li>
+<li>Geek Evening 0x19: Why PHP is not my favourite programming language by ripley
+<ul>
+<li>un’analisi semiseria su uno dei piu’ diffusi linguaggi di programmazione allo scopo di esercitare il nostro senso critico sulle scelte implementative e stilistiche delle tecnologie che utilizziamo.</li>
+<li>Materiale</li>
+<li>One Big SVG Poster</li>
+<li>L’applicazione utilizzata per navigare il poster SVG è un prototipo non ancora rilasciato ;-) Stay tuned!</li>
+</ul></li>
+<li>Geek Evening 0x1A: Convoluzione Grafica by desmovalvo
+<ul>
+<li>un’analisi dal punto di vista pseudo-matematico e pseudo-segnalistico dei filtri convolutivi di elaborazione delle immagini digitali…</li>
+<li>Materiale: la documentazione e’ rilasciata con licenza Creative Commons 2.5 Attribuzione, Non Commerciale, Condividi allo stesso modo mentre il codice e’ rilasciato con licenza GPL 3</li>
+<li>Tesina</li>
+<li>Presentazione</li>
+<li>Plugin Shifting Blur</li>
+<li>Plugin Warholize</li>
+</ul></li>
+<li>Geek Evening 0x1B: realizzare kart e personaggi per SuperTuxKart by desmovalvo
+<ul>
+<li>Slide</li>
+<li>Foto</li>
+</ul></li>
+<li>Geek Evening 0x1C: AVR + V-USB = USB Devices …that rocks!!! by Marco Ciullo
+<ul>
+<li>DESCRIPTION: Introduzione alla costruzione di dispositivi usb, utilizzando microcontrollori AVR e V-USB: un’implementazione firmware-only del protocollo USB 1.1</li>
+</ul></li>
+</ul>
+<h1 id="locandine"><a href="#locandine"><span class="header-section-number">3</span> Locandine</a></h1>
+<table class="gallery" cellspacing="0" cellpadding="0"><tbody>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/geek/Loclanottefalohacker.png" title="upload/images/Loclanottefalohacker.png"><img src="images/geek/Loclanottefalohacker-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+LaNotteFaLoHacker 00
+</div></div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/geek/Locandinabzr.png" title="images/geek/Locandinabzr.png"><img src="images/geek/Locandinabzr-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x01
+</div></div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/geek/Locandinage0x02kernel.png" title="images/geek/Locandinage0x02kernel.png"><img src="images/geek/Locandinage0x02kernel-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening0x02
+</div></div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/geek/Locandinage0x03kernel.jpg" title="images/geek/Locandinage0x03kernel.jpg"><img src="images/geek/Locandinage0x03kernel-low.jpg" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening0x03
+</div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/geek/Fonera-hack.png" title="images/geek/Fonera-hack.png"><img src="images/geek/Fonera-hack-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Fonera Hack
+</div></div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/geek/Emacs_geekevening.png" title="images/geek/Emacs_geekevening.png"><img src="images/geek/Emacs_geekevening-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x04
+</div></div>
+  </td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Geekevening.png" title="upload/images/Geekevening.png"><img src="/wiki/upload/thumb/5/52/Geekevening.png/85px-Geekevening.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x05e0x06
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 32px 0;">
+<a href="/wiki/upload/images/Ge0x07low.png" title="upload/images/Ge0x07low.png"><img src="/wiki/upload/thumb/8/8d/Ge0x07low.png/120px-Ge0x07low.png" width="120" height="82" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x07
+</div></div></td>
+</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Ge-0x08e0x09.png" title="upload/images/Ge-0x08e0x09.png"><img src="/wiki/upload/thumb/5/5b/Ge-0x08e0x09.png/85px-Ge-0x08e0x09.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x08e0x09
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;">
+<a href="/wiki/upload/images/Ge-elettronica.png" title="upload/images/Ge-elettronica.png"><img src="/wiki/upload/thumb/7/7e/Ge-elettronica.png/120px-Ge-elettronica.png" width="120" height="85" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x0A
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Ge-vim.png" title="upload/images/Ge-vim.png"><img src="/wiki/upload/thumb/c/c3/Ge-vim.png/85px-Ge-vim.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x0B
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;">
+<a href="/wiki/upload/images/Ge-socket.png" title="upload/images/Ge-socket.png"><img src="/wiki/upload/thumb/2/29/Ge-socket.png/120px-Ge-socket.png" width="120" height="85" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x0C
+</div></div></td>
+</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Locandina-ge0x0d.png" title="upload/images/Locandina-ge0x0d.png"><img src="/wiki/upload/thumb/1/1f/Locandina-ge0x0d.png/85px-Locandina-ge0x0d.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x0D
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Locandina-ge0x0e.png" title="upload/images/Locandina-ge0x0e.png"><img src="/wiki/upload/thumb/1/19/Locandina-ge0x0e.png/85px-Locandina-ge0x0e.png" width="85" height="119" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x0E
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Geek-fonera-hack2.png" title="upload/images/Geek-fonera-hack2.png"><img src="/wiki/upload/thumb/1/11/Geek-fonera-hack2.png/85px-Geek-fonera-hack2.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x0F
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Hurd-ge.png" title="upload/images/Hurd-ge.png"><img src="/wiki/upload/thumb/5/52/Hurd-ge.png/85px-Hurd-ge.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x10
+</div></div></td>
+</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Geek-bruno.png" title="upload/images/Geek-bruno.png"><img src="/wiki/upload/thumb/4/47/Geek-bruno.png/85px-Geek-bruno.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x11
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Locandina-GeekEvening-0x012-wiimote.png" title="upload/images/Locandina-GeekEvening-0x012-wiimote.png"><img src="/wiki/upload/thumb/6/6d/Locandina-GeekEvening-0x012-wiimote.png/85px-Locandina-GeekEvening-0x012-wiimote.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x12
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Emacs-locandina.png" title="upload/images/Emacs-locandina.png"><img src="/wiki/upload/thumb/e/ef/Emacs-locandina.png/85px-Emacs-locandina.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x13
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;">
+<a href="/wiki/upload/images/Ge-dvcs.png" title="upload/images/Ge-dvcs.png"><img src="/wiki/upload/thumb/d/de/Ge-dvcs.png/120px-Ge-dvcs.png" width="120" height="85" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x14
+</div></div></td>
+</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Gimp.png" title="upload/images/Gimp.png"><img src="/wiki/upload/thumb/8/8d/Gimp.png/85px-Gimp.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x15
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Milone.png" title="upload/images/Milone.png"><img src="/wiki/upload/thumb/0/0b/Milone.png/85px-Milone.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x16
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Ge-wireshark.png" title="upload/images/Ge-wireshark.png"><img src="/wiki/upload/thumb/5/5e/Ge-wireshark.png/85px-Ge-wireshark.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x17
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;">
+<a href="/wiki/upload/images/Geek-blender.png" title="upload/images/Geek-blender.png"><img src="/wiki/upload/thumb/8/80/Geek-blender.png/120px-Geek-blender.png" width="120" height="85" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x18
+</div></div></td>
+</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;">
+<a href="/wiki/upload/images/GE_php.png" title="upload/images/GE php.png"><img src="/wiki/upload/thumb/e/e9/GE_php.png/120px-GE_php.png" width="120" height="85" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x19
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;">
+<a href="/wiki/upload/images/Geek_convoluzione.png" title="upload/images/Geek convoluzione.png"><img src="/wiki/upload/thumb/e/ea/Geek_convoluzione.png/120px-Geek_convoluzione.png" width="120" height="85" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x1A
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Geek_evening_stk.png" title="upload/images/Geek evening stk.png"><img src="/wiki/upload/thumb/1/1e/Geek_evening_stk.png/85px-Geek_evening_stk.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x1B
+</div></div></td>
+<td><div class="gallerybox"><div class="thumb" style="padding: 31px 0;">
+<a href="/wiki/upload/images/Geek-0x1C-locandina.png" title="upload/images/Geek-0x1C-locandina.png"><img src="/wiki/upload/thumb/1/16/Geek-0x1C-locandina.png/120px-Geek-0x1C-locandina.png" width="120" height="84" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x1C
+</div></div></td>
+</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/Geek-0x1D.png" title="upload/images/Geek-0x1D.png"><img src="/wiki/upload/thumb/6/65/Geek-0x1D.png/85px-Geek-0x1D.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+Geekevening 0x1D
+</div></div></td>
+</tr>
+</tbody></table>
+                    </div>
+        </div>
+      </div>
+
+<footer>
+    <div class="footer">
+      <div class="col-sm-5">
+        <span class="title">SaLUG! Associazione Culturale</span><br>
+        <span class="subtitle">Salento GNU/Linux User Group</span>
+      </div>
+      <div class="col-sm-3 pull-right">
+        <ul class="social">
+        <li><a href="https://www.facebook.com/pages/SaLUG-Salento-GnuLinux-User-Group/100100436750328" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://twitter.com/_SaLUG_" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="mailto:info@salug.it"><i class="fa fa-envelope-o"></i></a></li>
+        </ul>
+      </div>
+    </div>
+</footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
