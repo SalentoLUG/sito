@@ -1,5 +1,26 @@
 # Home
 
+## 50 sfumature di Hello World 0x01 - LUA
+
+[![](images/geek/helloworld1-low.png)](images/geek/helloworld1.png)
+
+Il SaLUG! organizza una serie di seminari per approfondire linguaggi di programmazione, protocolli, progetti e tanto altro.
+
+Le serate inizieranno con l'anasili dell'argomento trattato per arrivare all'approfondimento delle sue caratteristiche
+partendo dal fatidico esempio che tutti coloro che si avvicinano alla programmazione conoscono: Hello World.
+
+Il primo appuntamento si focalizzera' su **LUA**, un linguaggio di programmazione dinamico, riflessivo, imperativo e procedurale,
+utilizzato come linguaggio di scripting di uso generico. Creato nel 1993 ha sempre lavorato nel substrato dei sistemi operativi
+senza mai essere notato.
+
+<br>
+Speaker dell'evento : **ntako (aka Matteo Nuzzachi)**
+
+<br>
+Dove: **Spazio Sociale Zei** in Corte dei Chiaramonte, 2 - Lecce
+Quando: **23 Marzo** alle ore **20:00**
+
+
 ## Geek Evening 0x25 - Machine Learning and Data Mining
 
 [![](images/geek/geekmldm-low.png)](images/geek/geekmldm.png)
