@@ -10,12 +10,20 @@ Questa volta il SaLUG! e' lieto di presentarvi il primo Geek Evening con argomen
 
 L'argomento non si sapra' fino alle 20:00 di mercoledi' 6 Aprile.
 
-L'uniche cose certe sono :
-- Quando : Mercoledi' 6 Aprile 2016 - ore 20:00
-- Dove : Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce
-- Speaker : fry :D
 
-Quindi che altro aggiungere...ci vediamo a Zei Spazio Sociale!!!!
+L'uniche cose certe sono :
+
+Quando :<br>
+**Mercoledi' 6 Aprile 2016 - ore 20:00**
+
+Dove : <br>
+**Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
+
+Speaker : <br>
+**fry**
+
+Quindi che altro aggiungere...ci vediamo a Zei!
+
 
 ## 50 sfumature di Hello World 0x01 - LUA
 
