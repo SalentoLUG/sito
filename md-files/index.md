@@ -1,5 +1,22 @@
 # Home
 
+## Geek Evening 0x26 - Surprise
+
+[![](images/geek/surprise-low.png)](images/geek/surprise.png)
+
+Nuovo evento geek, nuova forma di presentarlo!!!
+
+Questa volta il SaLUG! e' lieto di presentarvi il primo Geek Evening con argomento a sorpresa. Di cosa si tratta vi starete domandando voi... e' un evento in cui si parlera' di... chi puo' dirlo... qualunque cosa che riguardi l'informatica, l'hacking e la curiosita' in generale!!!
+
+L'argomento non si sapra' fino alle 20:00 di mercoledi' 6 Aprile.
+
+L'uniche cose certe sono :
+- Quando : Mercoledi' 6 Aprile 2016 - ore 20:00
+- Dove : Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce
+- Speaker : fry :D
+
+Quindi che altro aggiungere...ci vediamo a Zei Spazio Sociale!!!!
+
 ## 50 sfumature di Hello World 0x01 - LUA
 
 [![](images/geek/helloworld1-low.png)](images/geek/helloworld1.png)
