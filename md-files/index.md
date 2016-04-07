@@ -1,5 +1,17 @@
 # Home
 
+## Geek Evening 0x27 - The Dark side of ... YOUR network!
+
+[![](images/geek/darkside-net-lower.png)](images/geek/darkside-net.png)
+
+In the era where TVs register our voices, smartphones sends our data somewhere,
+it's really important to understand which information travels in our network....
+
+Speaker: **Giuseppe Longo**
+
+Non c'e' altro da aggiungere...!!!
+
+
 ## Geek Evening 0x26 - Surprise
 
 [![](images/geek/surprise-low.png)](images/geek/surprise.png)
