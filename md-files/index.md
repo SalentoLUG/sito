@@ -4,6 +4,8 @@
 
 [![](images/geek/darkside-net-lower.png)](images/geek/darkside-net.png)
 
+**Il Geek Evening e' rimandato a Giovedi 28 Aprile, ore 20.00**
+
 In the era where TVs register our voices, smartphones sends our data somewhere,
 it's really important to understand which information travels in our network....
 
