@@ -9,7 +9,7 @@ Si può entrare in contatto con il SaLUG!:
 * Cerca qualcuno in chat:
     * server: irc.freenode.net
     * channel: #salug!
-    * oppure se sei troppo pigro per aprire Erc cliccando [qui](http://java.freenode.net//index.php?channel=salug!)
+    * oppure se sei troppo pigro per aprire Erc cliccando [qui](https://webchat.freenode.net/?channels=salug!)
 * Partecipando agli [eventi](Eventi.html)
     * come le [riunioni](Associazione/Riunioni.html)
     * o le serate di [hacking](Progetti/Hacking.html)
