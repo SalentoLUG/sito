@@ -157,51 +157,106 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
   <td>
     <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Emacs_geekevening.png" title="images/geek/Emacs_geekevening.png"><img src="images/geek/Emacs_geekevening-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x04</div></div>
   </td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Geekevening.png" title="upload/images/Geekevening.png"><img src="/wiki/upload/thumb/5/52/Geekevening.png/85px-Geekevening.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x05e0x06</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 32px 0;"><a href="/wiki/upload/images/Ge0x07low.png" title="upload/images/Ge0x07low.png"><img src="/wiki/upload/thumb/8/8d/Ge0x07low.png/120px-Ge0x07low.png" width="120" height="82" alt=""></a></div><div class="gallerytext">
-Geekevening 0x07</div></div></td>
-</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Ge-0x08e0x09.png" title="upload/images/Ge-0x08e0x09.png"><img src="/wiki/upload/thumb/5/5b/Ge-0x08e0x09.png/85px-Ge-0x08e0x09.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x08e0x09</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="/wiki/upload/images/Ge-elettronica.png" title="upload/images/Ge-elettronica.png"><img src="/wiki/upload/thumb/7/7e/Ge-elettronica.png/120px-Ge-elettronica.png" width="120" height="85" alt=""></a></div><div class="gallerytext">
-Geekevening 0x0A</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Ge-vim.png" title="upload/images/Ge-vim.png"><img src="/wiki/upload/thumb/c/c3/Ge-vim.png/85px-Ge-vim.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x0B</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="/wiki/upload/images/Ge-socket.png" title="upload/images/Ge-socket.png"><img src="/wiki/upload/thumb/2/29/Ge-socket.png/120px-Ge-socket.png" width="120" height="85" alt=""></a></div><div class="gallerytext">
-Geekevening 0x0C</div></div></td>
-</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Locandina-ge0x0d.png" title="upload/images/Locandina-ge0x0d.png"><img src="/wiki/upload/thumb/1/1f/Locandina-ge0x0d.png/85px-Locandina-ge0x0d.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x0D</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Locandina-ge0x0e.png" title="upload/images/Locandina-ge0x0e.png"><img src="/wiki/upload/thumb/1/19/Locandina-ge0x0e.png/85px-Locandina-ge0x0e.png" width="85" height="119" alt=""></a></div><div class="gallerytext">
-Geekevening 0x0E</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Geek-fonera-hack2.png" title="upload/images/Geek-fonera-hack2.png"><img src="/wiki/upload/thumb/1/11/Geek-fonera-hack2.png/85px-Geek-fonera-hack2.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x0F</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Hurd-ge.png" title="upload/images/Hurd-ge.png"><img src="/wiki/upload/thumb/5/52/Hurd-ge.png/85px-Hurd-ge.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x10</div></div></td>
-</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Geek-bruno.png" title="upload/images/Geek-bruno.png"><img src="/wiki/upload/thumb/4/47/Geek-bruno.png/85px-Geek-bruno.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x11</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Locandina-GeekEvening-0x012-wiimote.png" title="upload/images/Locandina-GeekEvening-0x012-wiimote.png"><img src="/wiki/upload/thumb/6/6d/Locandina-GeekEvening-0x012-wiimote.png/85px-Locandina-GeekEvening-0x012-wiimote.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x12</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Emacs-locandina.png" title="upload/images/Emacs-locandina.png"><img src="/wiki/upload/thumb/e/ef/Emacs-locandina.png/85px-Emacs-locandina.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x13</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="/wiki/upload/images/Ge-dvcs.png" title="upload/images/Ge-dvcs.png"><img src="/wiki/upload/thumb/d/de/Ge-dvcs.png/120px-Ge-dvcs.png" width="120" height="85" alt=""></a></div><div class="gallerytext">
-Geekevening 0x14</div></div></td>
-</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Gimp.png" title="upload/images/Gimp.png"><img src="/wiki/upload/thumb/8/8d/Gimp.png/85px-Gimp.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x15</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Milone.png" title="upload/images/Milone.png"><img src="/wiki/upload/thumb/0/0b/Milone.png/85px-Milone.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x16</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Ge-wireshark.png" title="upload/images/Ge-wireshark.png"><img src="/wiki/upload/thumb/5/5e/Ge-wireshark.png/85px-Ge-wireshark.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x17</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="/wiki/upload/images/Geek-blender.png" title="upload/images/Geek-blender.png"><img src="/wiki/upload/thumb/8/80/Geek-blender.png/120px-Geek-blender.png" width="120" height="85" alt=""></a></div><div class="gallerytext">
-Geekevening 0x18</div></div></td>
-</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="/wiki/upload/images/GE_php.png" title="upload/images/GE php.png"><img src="/wiki/upload/thumb/e/e9/GE_php.png/120px-GE_php.png" width="120" height="85" alt=""></a></div><div class="gallerytext">
-Geekevening 0x19</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="/wiki/upload/images/Geek_convoluzione.png" title="upload/images/Geek convoluzione.png"><img src="/wiki/upload/thumb/e/ea/Geek_convoluzione.png/120px-Geek_convoluzione.png" width="120" height="85" alt=""></a></div><div class="gallerytext">
-Geekevening 0x1A</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Geek_evening_stk.png" title="upload/images/Geek evening stk.png"><img src="/wiki/upload/thumb/1/1e/Geek_evening_stk.png/85px-Geek_evening_stk.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x1B</div></div></td>
-<td><div class="gallerybox"><div class="thumb" style="padding: 31px 0;"><a href="/wiki/upload/images/Geek-0x1C-locandina.png" title="upload/images/Geek-0x1C-locandina.png"><img src="/wiki/upload/thumb/1/16/Geek-0x1C-locandina.png/120px-Geek-0x1C-locandina.png" width="120" height="84" alt=""></a></div><div class="gallerytext">
-Geekevening 0x1C</div></div></td>
-</tr><tr><td><div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Geek-0x1D.png" title="upload/images/Geek-0x1D.png"><img src="/wiki/upload/thumb/6/65/Geek-0x1D.png/85px-Geek-0x1D.png" width="85" height="120" alt=""></a></div><div class="gallerytext">
-Geekevening 0x1D</div></div></td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Geekevening-0x05e0x06.png" title="upload/images/Geekevening.png"><img src="images/geek/Geekevening-0x05e0x06-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x05 e 0x06</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 32px 0;"><a href="images/geek/Ge0x07.png" title="images/geek/Ge0x07.png"><img src="images/geek/Ge0x07-low.png" width="120" height="82" alt=""></a></div><div class="gallerytext">Geekevening 0x07</div>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Ge-0x08e0x09.png"><img src="images/geek/Ge-0x08e0x09-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x08e0x09</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/Ge-elettronica.png"><img src="images/geek/Ge-elettronica-low.png" width="120" height="85" alt=""></a></div><div class="gallerytext">Geekevening 0x0A</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Ge-vim.png"><img src="images/geek/Ge-vim-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x0B</div></div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/Ge-socket.png"><img src="images/geek/Ge-socket-low.png" width="120" height="85" alt=""></a></div><div class="gallerytext">Geekevening 0x0C</div>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Locandina-ge0x0d.png"><img src="images/geek/Locandina-ge0x0d-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x0D</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Locandina-ge0x0e.png"><img src="images/geek/Locandina-ge0x0e-low.png" width="85" height="119" alt=""></a></div><div class="gallerytext">Geekevening 0x0E</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Geek-fonera-hack2.png"><img src="images/geek/Geek-fonera-hack2.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x0F</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="/wiki/upload/images/Hurd-ge.png"><img src="images/geek/Hurd-ge-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x10</div>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Geek-bruno.png"><img src="images/geek/Geek-bruno.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x11</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/GeekEvening-0x012-wiimote.png"><img src="images/geek/GeekEvening-0x012-wiimote-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x12</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Emacs-locandina.png"><img src="images/geek/Emacs-locandina-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x13</div>
+  </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/Ge-dvcs.png" ><img src="images/geek/Ge-dvcs-low.png" width="120" height="85" alt=""></a></div><div class="gallerytext">Geekevening 0x14</div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Gimp.png"><img src="images/geek/Gimp-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x15</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Milone.png" ><img src="images/geek/Milone-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x16</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Ge-wireshark.png" ><img src="images/geek/Ge-wireshark-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x17</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/Geek-blender.png" ><img src="images/geek/Geek-blender-low.png" width="120" height="85" alt=""></a></div><div class="gallerytext">Geekevening 0x18</div>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/GE_php.png"><img src="images/geek/GE_php.png" width="120" height="85" alt=""></a></div><div class="gallerytext">Geekevening 0x19</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/Geek_convoluzione.png" ><img src="images/geek/Geek_convoluzione.png" width="120" height="85" alt=""></a></div><div class="gallerytext">Geekevening 0x1A</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Geek_evening_stk.png" ><img src="images/geek/Geek_evening_stk-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x1B</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 31px 0;"><a href="images/geek/Geek-0x1C-locandina.png"><img src="images/geek/Geek-0x1C-locandina.png" width="120" height="84" alt=""></a></div><div class="gallerytext">Geekevening 0x1C</div>
+  </div></td>
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Geek-0x1D.png"><img src="images/geek/Geek-0x1D-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x1D</div>
+    </div>
+  </td>
 </tr>
 </tbody></table>
