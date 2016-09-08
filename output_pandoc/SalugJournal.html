@@ -1,0 +1,340 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="italian" xml:lang="italian">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+        <meta name="author" content="Angelo D’Autilia" />
+            <title>SaLUG! - Salug! Journal</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.css" />
+
+        <link rel="stylesheet" href="css/custom.css" type="text/css" />
+        <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
+
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">SaLUG!</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Eventi <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="LinuxDay.html">GNU/Linux Day</a></li>
+                <li><a href="GeekEvening.html">Geek Evening</a></li>
+                <li><a href="Eventi.html">Calendario</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Progetti <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">SaLUG! Journal</a></li>
+                <li><a href="#">Corso GNU/Linux</a></li>
+                <li><a href="#">Hacking</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">Documentazione</a></li>
+                <li><a href="#">FreeDOS doc</a></li>
+                <li><a href="#">Humor</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://gallery.salug.it">Gallery</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Associazione <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="Associazione/">L'Associazione Culturale</a></li>
+                <li><a href="Associazione/Riunioni.html">Riunioni</a></li>
+                <li><a href="Mappa.html">Mappa del LUG</a></li>
+              </ul>
+            </li>
+            <li><a href="Contatti.html">Contatti</a></li>
+            <li><a href="https://webchat.freenode.net/?channels=salug!" target="_blank">Chat</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+      <div class="container">
+        <div class="row">
+         <div class="col-sm-3">
+           <div class="logo">
+             <img class="logo-img" src="images/logo.png">
+           </div>
+                      <div class="well toc">
+             <ul>
+               <li class="nav-header">Sommario</li>
+             </ul>
+                <ul>
+                <li><a href="#numeri-del-journal"><span class="toc-section-number">1</span> Numeri del Journal</a></li>
+                <li><a href="#linee-guida"><span class="toc-section-number">2</span> Linee guida</a></li>
+                <li><a href="#contribuire-al-salug-journal"><span class="toc-section-number">3</span> Contribuire al SaLUG! Journal</a></li>
+                <li><a href="#copertine"><span class="toc-section-number">4</span> Copertine</a></li>
+                </ul>
+           </div>
+                  </div>
+
+        <div class="col-sm-9 content">
+            <h1>Salug! Journal</h1>
+
+                    <p>Il <strong>SaLUG! Journal</strong> e’ una e-zine aperiodica e distribuita localmente in forma cartacea (in genere presso la facolta’ di Ingegneria a Lecce) e qui in versione elettronica, realizzata da alcuni componenti del SaLUG! (in ogni numero e’ presente il nome degli autori ed eventuali collaboratori).</p>
+<h1 id="numeri-del-journal"><a href="#numeri-del-journal"><span class="header-section-number">1</span> Numeri del Journal</a></h1>
+<ul>
+<li><a href="http://story.salug.it/~public/journal/SJ-0x00/SJ-0x00.pdf">Numero 0x00</a> (5 dic 2008)
+<ul>
+<li>Distribuzioni : Prima parte della guida alla scelta della distribuzione ideale by Marco Pagliara - <a href="http://story.salug.it/~public/journal/SJ-0x00/SJ-0x00-01.pdf">PDF</a></li>
+<li>Emacs : Prima parte del nostro approfondimento sullo storico editor di testo Emacs by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x00/SJ-0x00-02.pdf">PDF</a></li>
+<li>OpenStreetMap : Contribuire con il proprio navigatore e del software libero a mappare il mondo by Angelo D’Autilia - <a href="http://story.salug.it/~public/journal/SJ-0x00/SJ-0x00-03.pdf">PDF</a></li>
+<li>Neuromante : Recensione del celebre libro fantascentifico di William Gibson by Enrico Tramacere - <a href="http://story.salug.it/~public/journal/SJ-0x00/SJ-0x00-04.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x01</a> (23 giu 2009)
+<ul>
+<li>Emacs : Seconda parte (metodi di personalizzazione) by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x01/SJ-0x01-01.pdf">PDF</a></li>
+<li>PostgreSQL : Tra flessibilita’ e innovazione… by Angelo D’Autilia - <a href="http://story.salug.it/~public/journal/SJ-0x01/SJ-0x01-02.pdf">PDF</a></li>
+<li>The IT Crowd : Ironia geek + un alto tasso di demenzialita’ = FUN! by Benet Delia - <a href="http://story.salug.it/~public/journal/SJ-0x01/SJ-0x01-03.pdf">PDF</a></li>
+<li>DVCS : Sistemi di revisione distribuiti (Git, Bazaar, Mercurial) by Angelo D’Autilia - <a href="http://story.salug.it/~public/journal/SJ-0x01/SJ-0x01-04.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x02</a> (2 ott 2009)
+<ul>
+<li>Sviluppo Web con Rails (I parte) by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x02/SJ-0x02-01.pdf">PDF</a></li>
+<li>Octave per ingegneri (I parte) by Antonio Quarta - <a href="http://story.salug.it/~public/journal/SJ-0x02/SJ-0x02-02.pdf">PDF</a></li>
+<li>Wireless on Linux (I parte) by Luca Verdesca - <a href="http://story.salug.it/~public/journal/SJ-0x02/SJ-0x02-03.pdf">PDF</a></li>
+<li>Amule e p2p (I parte) by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x02/SJ-0x02-04.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x03</a> (24 ott 2009 - GNU/Linux Day)
+<ul>
+<li>Ubuntu - GNU/Linux semplice! by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x03/SJ-0x03-01.pdf">PDF</a></li>
+<li>Speciale GNU/Linux Day 2009 by Alberto De Ronzi - <a href="http://story.salug.it/~public/journal/SJ-0x03/SJ-0x03-02.pdf">PDF</a></li>
+<li>Sviluppo Web con Rails (II parte) by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x03/SJ-0x03-03.pdf">PDF</a></li>
+<li>Octave per ingegneri (II parte) by Antonio Quarta - <a href="http://story.salug.it/~public/journal/SJ-0x03/SJ-0x03-04.pdf">PDF</a></li>
+<li>Amule e p2p (II parte) by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x03/SJ-0x03-05.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x04</a> (10 nov 2009)
+<ul>
+<li>Visual Basic e .NET su Linux by Angelo D’Autilia - <a href="http://story.salug.it/~public/journal/SJ-0x04/SJ-0x04-01.pdf">PDF</a></li>
+<li>GnuPG e la difesa della privacy by Emanuele Santor - <a href="http://story.salug.it/~public/journal/SJ-0x04/SJ-0x04-02.pdf">PDF</a></li>
+<li>USB Sniffing by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x04/SJ-0x04-03.pdf">PDF</a></li>
+<li>OpenGL - la prima finestra by joxer - <a href="http://story.salug.it/~public/journal/SJ-0x04/SJ-0x04-04.pdf">PDF</a></li>
+<li>Web development con Rails - parte III by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x04/SJ-0x04-05.pdf">PDF</a></li>
+<li>GNU/Linux Day 2009 by Alberto De Ronzi - <a href="http://story.salug.it/~public/journal/SJ-0x04/SJ-0x04-06.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x05</a> (22 Gen 2010)
+<ul>
+<li>GNU/Hurd Parte I - Inizia la panoramica sugli OS liberi meno conosciuti by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x05/SJ-0x05-01.pdf">PDF</a></li>
+<li>Invito alla lettura libera - The importance of Being Earnest by Carlo Palma - <a href="http://story.salug.it/~public/journal/SJ-0x05/SJ-0x05-02.pdf">PDF</a></li>
+<li>L’angolo dell’artista: www.xkcd.org - A webcomic of romance, sarcasm, math and language by Carlo Palma - <a href="http://story.salug.it/~public/journal/SJ-0x05/SJ-0x05-03.pdf">PDF</a></li>
+<li>Gentoo!!! - Il pinguino piu’ veloce della rete by Angelo D’Autilia - <a href="http://story.salug.it/~public/journal/SJ-0x05/SJ-0x05-04.pdf">PDF</a></li>
+<li>Bash e Google API - Sereni e…“Variabili” by Remo ‘f3nix’ Tomasi - <a href="http://story.salug.it/~public/journal/SJ-0x05/SJ-0x05-05.pdf">PDF</a></li>
+<li>Scrivere per il SaLUG! Journal - Far sopravvivere un’idea… by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x05/SJ-0x05-06.pdf">PDF</a></li>
+<li>Il software in vetrina: gphoto2 - Gestire la fotocamera in maniera alternativa by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x05/SJ-0x05-07.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x06</a> (1 Aprile 2010)
+<ul>
+<li>Customizing Fluxbox - Parte 1 - Aggiungere le icone al desktop con iDesk by Alessandra Persano - <a href="http://story.salug.it/~public/journal/SJ-0x06/SJ-0x06-01.pdf">PDF</a></li>
+<li>Web development with Rails - parte IV - Creazione di un ciclo CRUD by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x06/SJ-0x06-02.pdf">PDF</a></li>
+<li>Portage: un albero di sorgenti - Primi comandi per installare su Gentoo by Angelo D’Autilia - <a href="http://story.salug.it/~public/journal/SJ-0x06/SJ-0x06-03.pdf">PDF</a></li>
+<li>rrtool: scripting &amp; graphs - Controllare il proprio sistema con grafici automatizzati by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x06/SJ-0x06-04.pdf">PDF</a></li>
+<li>GNU/Hurd - Parte II - Entra nel vivo l’esplorazione di GNU/Hurd by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x06/SJ-0x06-05.pdf">PDF</a></li>
+<li>Il software in vetrina: Cuperativa e qBriscola by Angelo D’Autilia - <a href="http://story.salug.it/~public/journal/SJ-0x06/SJ-0x06-06.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x07</a> (28 Luglio 2010)
+<ul>
+<li>Gettin rid of LibC by Giovanni Vergine - <a href="http://story.salug.it/~public/journal/SJ-0x07/SJ-0x07-01.pdf">PDF</a></li>
+<li>Sfidare UrbanTerror by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x07/SJ-0x07-02.pdf">PDF</a></li>
+<li>FreeDos - Parte I by Roberto Perotti - <a href="http://story.salug.it/~public/journal/SJ-0x07/SJ-0x07-03.pdf">PDF</a></li>
+<li>Le novita’ di gThumb by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x07/SJ-0x07-04.pdf">PDF</a></li>
+<li>Installare GNU/Linux su pendrive USB by Marco Ciullo - <a href="http://story.salug.it/~public/journal/SJ-0x07/SJ-0x07-05.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x08</a> (1 Settembre 2010)
+<ul>
+<li>Freedos Game Machines by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x08/SJ-0x08-01.pdf">PDF</a></li>
+<li>Etckeeper by Angelo D’Autilia - <a href="http://story.salug.it/~public/journal/SJ-0x08/SJ-0x08-02.pdf">PDF</a></li>
+<li>Fluxbox and Adesklets by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x08/SJ-0x08-03.pdf">PDF</a></li>
+<li>Scripting Inkscape by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x08/SJ-0x08-04.pdf">PDF</a></li>
+<li>Firefox: scrivere plugin by Marco Ciullo - <a href="http://story.salug.it/~public/journal/SJ-0x08/SJ-0x08-05.pdf">PDF</a></li>
+<li>Blogging by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x08/SJ-0x08-06.pdf">PDF</a></li>
+<li>Rails: Debug and Test by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x08/SJ-0x08-07.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x09</a> (4 ottobre 2010)
+<ul>
+<li>GNU/Linux Day 2010 by Stefano Larini - <a href="http://story.salug.it/~public/journal/SJ-0x09/SJ-0x09-01.pdf">PDF</a></li>
+<li>Eclipse + RadRails by Angelo D’Autilia - <a href="http://story.salug.it/~public/journal/SJ-0x09/SJ-0x09-02.pdf">PDF</a></li>
+<li>Chattare con… un editor di testo by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x09/SJ-0x09-03.pdf">PDF</a></li>
+<li>Mouse e creativita al servizio di TORCS by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x09/SJ-0x09-04.pdf">PDF</a></li>
+<li>Panda3d e wiimote by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x09/SJ-0x09-05.pdf">PDF</a></li>
+<li>(Open) Embedded Linux Development by Ugo Raffaele Piemontese - <a href="http://story.salug.it/~public/journal/SJ-0x09/SJ-0x09-06.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x0a</a> (17 dicembre 2010)
+<ul>
+<li>Inkscape: duplicazione e clonazione by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x0a/SJ-0x0a-01.pdf">PDF</a></li>
+<li>Compilare Blender 2.5 by Marco Pagliara - <a href="http://story.salug.it/~public/journal/SJ-0x0a/SJ-0x0a-02.pdf">PDF</a></li>
+<li>La liberta’ di avere un server a casa by Francesco Paparella - <a href="http://story.salug.it/~public/journal/SJ-0x0a/SJ-0x0a-03.pdf">PDF</a></li>
+<li>Puglia, Microsoft e software libero?!? by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x0a/SJ-0x0a-04.pdf">PDF</a></li>
+</ul></li>
+<li><a href="">Numero 0x0b</a> (23 maggio 2011)
+<ul>
+<li>Realizzare slide con Latex by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x0b/SJ-0x0b-01.pdf">PDF</a></li>
+<li>XMonad: a tiling window manager by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x0b/SJ-0x0b-02.pdf">PDF</a></li>
+<li>Zoneminder by Stefano Larini - <a href="http://story.salug.it/~public/journal/SJ-0x0b/SJ-0x0b-03.pdf">PDF</a></li>
+<li>In principio era il verbo..se mode by Remo Tomasi - <a href="http://story.salug.it/~public/journal/SJ-0x0b/SJ-0x0b-04.pdf">PDF</a></li>
+<li>Blender Cycles by Marco Pagliara - <a href="http://story.salug.it/~public/journal/SJ-0x0b/SJ-0x0b-05.pdf">PDF</a></li>
+<li>HTML5 mette in riga i browser by Fabio Grasso - <a href="http://story.salug.it/~public/journal/SJ-0x0b/SJ-0x0b-06.pdf">PDF</a></li>
+<li>Il pigreco e il metodo montecarlo by Remo Tomasi - <a href="http://story.salug.it/~public/journal/SJ-0x0b/SJ-0x0b-07.pdf">PDF</a></li>
+<li>News dal pianeta SaLUG! by Fabio Viola - <a href="http://story.salug.it/~public/journal/SJ-0x0b/SJ-0x0b-08.pdf">PDF</a></li>
+</ul></li>
+</ul>
+<h1 id="linee-guida"><a href="#linee-guida"><span class="header-section-number">2</span> Linee guida</a></h1>
+<p>Se avete intenzione di scrivere un articolo per il SaLUG! Journal potete seguire le linee guida che trovate a questo riferimento:</p>
+<p><a href="http://story.salug.it/~public/journal/salug-journal-linee-guida.org">Linee Guida</a></p>
+<h1 id="contribuire-al-salug-journal"><a href="#contribuire-al-salug-journal"><span class="header-section-number">3</span> Contribuire al SaLUG! Journal</a></h1>
+<p>Per collaborare inviate i vostri articoli a journal [at] salug [dot] it ;-)</p>
+<h1 id="copertine"><a href="#copertine"><span class="header-section-number">4</span> Copertine</a></h1>
+<p>Tutte le copertine sono state realizzate da Fabio Viola.</p>
+<table class="gallery" cellspacing="0" cellpadding="0"><tbody>
+  <tr>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/SaLUG_journal_0x00-copertina.jpg" ><img src="images/journal/SaLUG_journal_0x00-copertina-low.jpg" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x00
+</div>
+      </div>
+    </td>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="/wiki/upload/images/SaLUG_journal_0x01-copertina.jpg"><img src="images/journal/SaLUG_journal_0x01-copertina-low.jpg" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x01
+</div></div>
+    </td>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/Journal_0x02-copertina.png" ><img src="images/journal/Journal_0x02-copertina-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x02
+</div></div>
+    </td>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/Copertina-journal-0x03.png" ><img src="images/journal/Copertina-journal-0x03-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x03
+</div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/Copertina-journal0x04.png" ><img src="images/journal/Copertina-journal0x04-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x04
+</div></div>
+    </td>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/Copertina-SJ-0x05.png" ><img src="images/journal/Copertina-SJ-0x05-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x05
+</div></div>
+    </td>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/SJ-0x06-copertina.png" ><img src="images/journal/SJ-0x06-copertina-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x06
+</div></div>
+    </td>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/SJ-0x07-Copertina.jpeg"><img src="images/journal/SJ-0x07-Copertina-low.jpeg" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x07
+</div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/SJ-0x08-Copertina.png" ><img src="images/journal/SJ-0x08-Copertina-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x08
+</div></div>
+    </td>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/Copertina0x09.png" ><img src="images/journal/Copertina0x09-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x09
+</div></div>
+    </td>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/Copertina-0x0a.png" ><img src="images/journal/Copertina-0x0a-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x0a
+</div></div>
+    </td>
+    <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;">
+<a href="images/journal/SJ-0x0b-00.png" ><img src="images/journal/SJ-0x0b-00-low.png" width="85" height="120" alt=""></a>
+</div><div class="gallerytext">
+0x0b
+</div></div>
+    </td>
+</tr>
+</tbody></table>
+                    </div>
+        </div>
+      </div>
+
+<footer>
+    <div class="footer">
+      <div class="col-sm-5">
+        <span class="title">SaLUG! Associazione Culturale</span><br>
+        <span class="subtitle">Salento GNU/Linux User Group</span>
+      </div>
+      <div class="col-sm-3 pull-right">
+        <ul class="social">
+        <li><a href="https://www.facebook.com/pages/SaLUG-Salento-GnuLinux-User-Group/100100436750328" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://twitter.com/_SaLUG_" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="mailto:info@salug.it"><i class="fa fa-envelope-o"></i></a></li>
+        </ul>
+      </div>
+    </div>
+</footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
