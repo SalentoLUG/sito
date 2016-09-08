@@ -132,6 +132,23 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
 * Geek Evening 0x1C: AVR + V-USB = USB Devices ...that rocks!!! by Marco Ciullo
     * DESCRIPTION: Introduzione alla costruzione di dispositivi usb, utilizzando microcontrollori AVR e V-USB: un'implementazione firmware-only del
       protocollo USB 1.1
+* Geek Evening 0x1D: Adroid for dummies
+* Geek Evening 0x1E: Howto MasterChef
+    * DESCRIPTION: Da Sistemisti a DevOps: sviluppo agile di sistemi con Vagrant, Chef e Lxc
+* Geek Evening 0x1F: Linux Packet Filtering
+* Geek Evening 0x20: Eric Leblond, Nftables e Suricata IDS 2.0
+    * [Slides](https://home.regit.org/wp-content/uploads/2015/02/suricata-netfilter-prc.pdf)
+* Apple-1 wants to be rebuilt
+* Geek Evening 0x21: Ansible - the hidden track
+* Collettivo Ippolita - Tecnologie del dominio. Tecnologie condivisione
+* Geek Evening 0x22: Secure NDC
+    * [Presentazione](files/securendc-presentation.pdf)
+* Geek Evening 0x23: Baobáxia: Connecting off-line afro-brazilian communities with free software
+* Geek Evening 0x24: AngularJS
+* Geek Evening 0x25 - Machine Learning and Data Mining
+* 50 sfumature di Hello World 0x01 - LUA
+* Geek Evening 0x26 - Surprise
+* Geek Evening 0x27 - The Dark side of … YOUR network!
 
 # Locandine
 
@@ -258,5 +275,31 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
     <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/Geek-0x1D.png"><img src="images/geek/Geek-0x1D-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x1D</div>
     </div>
   </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/GeekEvening0x1E.png"><img src="images/geek/GeekEvening0x1E-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geekevening 0x1E</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/Locandina_ge0x1f_800x.png"><img src="images/Locandina_ge0x1f_800x-low.png" width="120" height="84" alt=""></a></div><div class="gallerytext">Geekevening 0x1F</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/Locandina-Eric.png"><img src="images/Locandina-Eric-low.png" width="120" height="84" alt=""></a></div><div class="gallerytext">Geekevening 0x20</div>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/locandina-museo.jpg"><img src="images/locandina-museo-low.jpg" width="85" height="120" alt=""></a></div><div class="gallerytext">Apple-1</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/locandina-ansible.png"><img src="images/locandina-ansible-low.png" width="120" height="84" alt=""></a></div><div class="gallerytext">Geekevening 0x21</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/locandina-collettivo-ippolita.jpg"><img src="images/locandina-collettivo-ippolita-low.jpg" width="85" height="120" alt=""></a></div><div class="gallerytext">Collettivo Ippolita</div>
+    </div>
+  </td>  
 </tr>
 </tbody></table>

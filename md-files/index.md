@@ -134,7 +134,7 @@ Quindi... ricapitolando:
 
 ## Collettivo Ippolita - Tecnologie del dominio. Tecnologie condivisione
 
-[![](images/locandina-collettivo-ippolita.jpg)](images/locandina-collettivo-ippolita.jpg)
+[![](images/locandina-collettivo-ippolita-low.jpg)](images/locandina-collettivo-ippolita.jpg)
 
 Ippolita è un gruppo di ricerca interdisciplinare attivo dal 2005.
 Conduce una riflessione ad ampio raggio sulle ‘tecnologie del dominio’ e i loro effetti sociali. Pratica scritture conviviali in testi a circolazione trasversale, dal sottobosco delle comunità hacker alle aule universitarie. Tra i saggi pubblicati: Open non è free. Comunità digitali tra etica hacker e mercato globale (Elèuthera 2005); Luci e ombre di Google (Feltrinelli 2007, tradotto in francese, spagnolo e inglese); Nell’acquario di Facebook (Ledizioni 2013, tradotto in francese, spagnolo e inglese); La Rete è libera e democratica. FALSO! (Laterza 2014).
