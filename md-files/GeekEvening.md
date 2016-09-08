@@ -301,5 +301,37 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
     <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/locandina-collettivo-ippolita.jpg"><img src="images/locandina-collettivo-ippolita-low.jpg" width="85" height="120" alt=""></a></div><div class="gallerytext">Collettivo Ippolita</div>
     </div>
   </td>  
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/locandina-securendc.png"><img src="images/locandina-securendc-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geek Evening 0x22</div>
+    </div>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/locandina-baobaxia.png"><img src="images/locandina-baobaxia-low.gif" width="85" height="120" alt=""></a></div><div class="gallerytext">Geek Evening 0x23</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 48px 0;"><a href="images/locandina-angularjs.png"><img src="images/locandina-angularjs-low.gif" width="120" height="50" alt=""></a></div><div class="gallerytext">Geekevening 0x24</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/geekmldm.png"><img src="images/geek/geekmldm-low.png" width="120" height="84" alt=""></a></div><div class="gallerytext">Geek Evening 0x25</div>
+    </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/helloworld1.png"><img src="images/geek/helloworld1-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Hello World 0x01</div>
+    </div>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/surprise.png"><img src="images/geek/surprise-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geek Evening 0x26</div>
+    </div>
+  </td>  
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/darkside-net.png"><img src="images/geek/darkside-net-lower.png" width="120" height="84" alt=""></a></div><div class="gallerytext">Geek Evening 0x27</div>
+    </div>
+  </td>
 </tr>
 </tbody></table>
