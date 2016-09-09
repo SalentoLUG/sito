@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="italian" xml:lang="italian">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+        <meta name="author" content="Angelo D’Autilia" />
+            <title>SaLUG! - Chi Siamo</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.css" />
+
+        <link rel="stylesheet" href="../css/custom.css" type="text/css" />
+        <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.1/leaflet.js"></script>
+
+  </head>
+
+  <body>
+
+    <!-- Fixed navbar -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="../index.html">SaLUG!</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Eventi <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="../LinuxDay.html">GNU/Linux Day</a></li>
+                <li><a href="../GeekEvening.html">Geek Evening</a></li>
+                <li><a href="../Eventi.html">Calendario</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Progetti <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="../SalugJournal.html">SaLUG! Journal</a></li>
+                <li><a href="#">Corso GNU/Linux</a></li>
+                <li><a href="#">Hacking</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">Documentazione</a></li>
+                <li><a href="#">FreeDOS doc</a></li>
+                <li><a href="#">Humor</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="http://gallery.salug.it">Gallery</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Associazione <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="../Associazione/ChiSiamo.html">Chi Siamo?</a></li>
+                <li><a href="../Associazione/">L'Associazione Culturale</a></li>
+                <li><a href="../Associazione/Riunioni.html">Riunioni</a></li>
+                <li><a href="../Mappa.html">Mappa del LUG</a></li>
+              </ul>
+            </li>
+            <li><a href="../Contatti.html">Contatti</a></li>
+            <li><a href="https://webchat.freenode.net/?channels=salug!" target="_blank">Chat</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+      <div class="container">
+        <div class="row">
+         <div class="col-sm-3">
+           <div class="logo">
+             <img class="logo-img" src="../images/logo.png">
+           </div>
+                      <div class="well toc">
+             <ul>
+               <li class="nav-header">Sommario</li>
+             </ul>
+                <ul>
+                <li><a href="#chi-siamo"><span class="toc-section-number">1</span> Chi siamo?</a></li>
+                <li><a href="#obiettivi"><span class="toc-section-number">2</span> Obiettivi</a></li>
+                <li><a href="#iniziative"><span class="toc-section-number">3</span> Iniziative</a></li>
+                <li><a href="#solo-una-leggenda"><span class="toc-section-number">4</span> Solo una leggenda?</a></li>
+                </ul>
+           </div>
+                  </div>
+
+        <div class="col-sm-9 content">
+            <h1>Chi Siamo</h1>
+
+                    <h1 id="chi-siamo"><a href="#chi-siamo"><span class="header-section-number">1</span> Chi siamo?</a></h1>
+<p>Il <strong>SaLUG!</strong> (Salento GNU/Linux Users Group) è principalmente <em>un gruppo di amici con una passione in comune</em> quella per il <a href="http://www.gnu.org/philosophy/free-sw.it.html" title="http://www.gnu.org/philosophy/free-sw.it.html">Software Libero</a>.<br />Come accaduto in moltissime altre zone d’<a href="http://www.linux.it/LUG/" title="http://www.linux.it/LUG/">Italia</a> e del <a href="http://www.gnu.org/gnu/gnu-user-groups.html" title="http://www.gnu.org/gnu/gnu-user-groups.html">mondo</a>, il contatto tra utenti del sistema operativo libero <strong>GNU/Linux</strong>, il desiderio di reciproca collaborazione, di condivisione della conoscenza informatica libera, ha portato nel 2001, anche nel Salento, alla nascita di un gruppo di utenti di zona, il SaLUG!.<br />Per entrare in contatto, conoscere ed eventualmente prendere parte al SaLUG! basta <a href="http://salug.it/MailingList.html" title="http://salug.it/MailingList.html">iscriversi alla Mailing List pubblica</a>: la <em>piazza o bar virtuale</em> dove i membri del SaLUG! discutono apertamente e liberamente.<br />La <a href="http://salug.it/MailingList.html" title="http://salug.it/MailingList.html">Mailing List pubblica</a> è libera ed è il posto giusto per un <em>primo contatto</em> con il SaLUG!<br />Partecipare alla Mailing List può significare seguirne le discussioni, proporre degli argomenti, delle iniziative, esprimere la propria opinione o anche semplicemente porre delle domande.<br />Al momento gli iscritti alla Mailing List pubblica superano il centinaio di persone e se non sei ancora iscritto… sarai il benvenuto!</p>
+<p>Per meglio coordinare le proprie attività, nel 2003, il SaLUG! è diventato un’<a href="http://salug.it/Associazione.html" title="Associazione">associazione culturale</a> senza scopo di lucro, apartitica e aconfessionale, che intende promuovere e sviluppare nel Salento la conoscenza informatica relativa al Software Libero, agli standard ed ai formati aperti ed ai sistemi operativi compatibili con la filosofia del <a href="http://www.italy.fsfeurope.org/index.it.html" title="http://www.italy.fsfeurope.org/index.it.html">Free Software</a> (come GNU/Linux).<br />L’associazione culturale SaLUG! è composta da circa una sessantina di soci che dedicano volontariamente il proprio tempo libero per perseguire gli scopi dell’associazione.</p>
+<p>Quindi, sebbene partecipare al SaLUG! continui a significare principalmente, partecipare liberamente alla Mailing List pubblica, se ci si trova d’accordo con le linee guida dettate dallo <a href="http://salug.it/Associazione/Statuto.html" title="Associazione:Statuto">statuto</a> del SaLUG!, allora si può prendere <em>parte attiva</em>, richiedendo <a href="http://salug.it/Associazione/Diventare_socio.html" title="Associazione:Diventare Socio">iscrizione</a> all’associazione culturale SaLUG!, in modo da diventare socio e contribuire concretamente alle attività, ai progetti ed al futuro stesso del SaLUG!</p>
+<h1 id="obiettivi"><a href="#obiettivi"><span class="header-section-number">2</span> Obiettivi</a></h1>
+<ul>
+<li>Diffondere la filosofia del <a href="http://www.gnu.org/philosophy/free-sw.it.html" title="http://www.gnu.org/philosophy/free-sw.it.html">Software Libero</a> sul territorio salentino (pubblica amministrazione, scuole, aziende, privati cittadini).</li>
+<li>Approfondire gli aspetti tecnici, legali, economici e filosofici del <a href="http://www.gnu.org/philosophy/free-sw.it.html" title="http://www.gnu.org/philosophy/free-sw.it.html">Software Libero</a>.</li>
+<li>Supportare l’utilizzo di GNU/Linux e degli altri sistemi operativi compatibili con la filosofia del <a href="http://www.gnu.org/philosophy/free-sw.it.html" title="http://www.gnu.org/philosophy/free-sw.it.html">Software Libero</a>.</li>
+</ul>
+<h1 id="iniziative"><a href="#iniziative"><span class="header-section-number">3</span> Iniziative</a></h1>
+<ul>
+<li>Promuovere incontri, manifestazioni, seminari e congressi.</li>
+<li>Organizzare dimostrazioni pratiche sull’installazione e l’utilizzo di <a href="http://www.gnu.org/philosophy/free-sw.it.html" title="http://www.gnu.org/philosophy/free-sw.it.html">Software Libero</a>.</li>
+<li>Sviluppare documentazione e software.</li>
+</ul>
+<h1 id="solo-una-leggenda"><a href="#solo-una-leggenda"><span class="header-section-number">4</span> Solo una leggenda?</a></h1>
+<div style="display:flex;">
+<div style="width: 75%;">
+<p>Durante l’ultima glaciazione, il Salento era abitato dall’<strong>Alca</strong>, una specie di pinguino della famiglia degli Alcidi, diffuso fino al XIX secolo nell’Atlantico settentrionale dalla Norvegia fino alle coste di Terranova. La caccia spietata a cui la specie e’ stata sottoposta dai balenieri prima e dai collezionisti museali poi, ne ha decretato la completa estinzione intorno alla metà dell’Ottocento.</p>
+<p>Curiosamente questa specie rappresenta il vero pinguino in quanto e’ proprio con questo termine che i balenieri europei battezzarono i noti uccelli australi, notando la straordinaria somiglianza morfologica con le Alche impenni.</p>
+<em>A più di diecimila anni dall’ultimo avvistamento di un’Alca nel Salento, un gruppo di “non allineati” lo riporta metaforicamente in vita…</em>
+</div>
+<div style="width:19%;">
+<div style="float:right;">
+<img src="http://story.salug.it/wiki/upload/thumb/7/78/Alca_big.jpg/120px-Alca_big.jpg" alt="Alca: il vero pinguino" />
+</div>
+</div>
+</div>
+                    </div>
+        </div>
+      </div>
+
+<footer>
+    <div class="footer">
+      <div class="col-sm-5">
+        <span class="title">SaLUG! Associazione Culturale</span><br>
+        <span class="subtitle">Salento GNU/Linux User Group</span>
+      </div>
+      <div class="col-sm-3 pull-right">
+        <ul class="social">
+        <li><a href="https://www.facebook.com/pages/SaLUG-Salento-GnuLinux-User-Group/100100436750328" target="_blank"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="https://twitter.com/_SaLUG_" target="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="mailto:info@salug.it"><i class="fa fa-envelope-o"></i></a></li>
+        </ul>
+      </div>
+    </div>
+</footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
