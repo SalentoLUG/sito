@@ -22,6 +22,9 @@ Dove : <br>
 Speaker : <br>
  **Angelo D'Autilia**
 
+<br><br>
+Il repository delle **slide** (con guida all'utilizzo) lo trovate al seguente link:<br>
+[https://github.com/SalentoLUG/geek-evening-docker](https://github.com/SalentoLUG/geek-evening-docker)
 
 ## Geek Evening 0x27 - The Dark side of ... YOUR network!
 
