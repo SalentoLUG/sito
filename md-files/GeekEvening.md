@@ -149,6 +149,8 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
 * 50 sfumature di Hello World 0x01 - LUA
 * Geek Evening 0x26 - Surprise
 * Geek Evening 0x27 - The Dark side of … YOUR network!
+* Geek Evening 0x28 - Docker da 0 a 100!
+* Geek Evening 0x29 - Javascript nel 2016...e oltre!
 
 # Locandine
 
@@ -333,5 +335,13 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
     <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/darkside-net.png"><img src="images/geek/darkside-net-lower.png" width="120" height="84" alt=""></a></div><div class="gallerytext">Geek Evening 0x27</div>
     </div>
   </td>
+  <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/locandina-docker.jpg"><img src="images/geek/locandina-docker-lower.jpg" width="85" height="120" alt=""></a></div><div class="gallerytext">Geek Evening 0x28</div>
+      </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/locandina-javascript.jpg"><img src="images/geek/locandina-javascript-lower.jpg" width="120" height="84" alt=""></a></div><div class="gallerytext">Geek Evening 0x29</div>
+    </div>
+  </td>  
 </tr>
 </tbody></table>

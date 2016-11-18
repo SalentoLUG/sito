@@ -1,5 +1,35 @@
 # Home
 
+## Geek Evening 0x29 - Javascript nel 2016...e oltre!
+
+[![](images/geek/locandina-javascript.png)](images/geek/locandina-javascript.png)
+
+ES6/ES7: Quali sono le feature piu' interessanti introdotte da questi
+aggiornamenti allo standard ufficialmente? Come utilizzare queste novita'
+senza aspettare che tutto il mondo aggiorni il proprio browser?
+
+NodeJS, NPM, ESLint, Flow, Babel, Webpack/Browserify/Rollup e "chi piu' ne
+ha piu' ne metta": esistono oramai una infinita' di tool intorno a
+JavaScript, e continuano ad aumentare. A cosa servono? Come utilizzarli?
+
+Questo Mercoledi' gli daremo un'occhiata insieme, ne discuteremo tra noi, e
+vedremo come stanno influenzano il nostro modo di scrivere JavaScript oggi
+e nel prossimo futuro...
+
+... tutto questo sorseggianto una birra nello Spazio Sociale ZEI, in Corte
+dei Chiaramonte a Lecce.
+
+<br><br>
+Quando :<br>
+**Mercoledi' 23 Novembre 2016 - ore 21:30**
+
+Dove : <br>
+**Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
+
+Speaker : <br>
+ **Luca 'rpl' Greco**
+
+
 ## Geek Evening 0x28 - Docker: da 0 a 100!
 
 [![](images/geek/locandina-docker-lower.jpg)](images/geek/locandina-docker.jpg)
