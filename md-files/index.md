@@ -29,6 +29,9 @@ Dove : <br>
 Speaker : <br>
  **Luca 'rpl' Greco**
 
+Il repository delle **slide** lo trovate al seguente link:<br>
+[https://github.com/SalentoLUG/geek-evening-javascript2016](https://github.com/SalentoLUG/geek-evening-javascript2016)
+
 
 ## Geek Evening 0x28 - Docker: da 0 a 100!
 
