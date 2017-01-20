@@ -1,5 +1,32 @@
 # Home
 
+## Geek Evening 0x2A - Docker: da 0 a 100! - SECONDA PARTE
+
+[![](images/geek/locandina-docker-parte2-lower.jpg)](images/geek/locandina-docker-parte2.png)
+
+Docker è un progetto open-source che automatizza il deployment di applicazioni
+all'interno di container software, fornendo un'astrazione addizionale grazie
+alla virtualizzazione a livello di sistema operativo.
+
+Nel talk saranno presentati tutti gli argomenti necessari per poter essere
+produttivi da subito ed essere capace di creare i propri ambienti di sviluppo
+e di produzione con un semplice comando.
+
+<br><br>
+Quando :<br>
+**Mercoledi' 1 Febbraio 2017 - ore 20:00**
+
+Dove : <br>
+**Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
+
+Speaker : <br>
+ **Angelo D'Autilia**
+
+<br><br>
+Il repository delle **slide** (con guida all'utilizzo) lo trovate al seguente link:<br>
+[https://github.com/SalentoLUG/geek-evening-docker](https://github.com/SalentoLUG/geek-evening-docker)
+
+
 ## Geek Evening 0x29 - Javascript nel 2016...e oltre!
 
 [![](images/geek/locandina-javascript.png)](images/geek/locandina-javascript.png)

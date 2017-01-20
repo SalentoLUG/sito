@@ -344,4 +344,10 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
     </div>
   </td>  
 </tr>
+<tr>
+<td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/locandina-docker-parte2.png"><img src="images/geek/locandina-docker-parte2-lower.jpg" width="85" height="120" alt=""></a></div><div class="gallerytext">Geek Evening 0x2A</div>
+    </div>
+</td>
+</tr>
 </tbody></table>
