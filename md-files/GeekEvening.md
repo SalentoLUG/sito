@@ -151,6 +151,8 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
 * Geek Evening 0x27 - The Dark side of … YOUR network!
 * Geek Evening 0x28 - Docker da 0 a 100!
 * Geek Evening 0x29 - Javascript nel 2016...e oltre!
+* Geek Evening 0x2A - Docker da 0 a 100! Seconda Parte
+* Geek Evening 0x2B - Let’s build a WebApps UI using React
 
 # Locandine
 
@@ -345,9 +347,13 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
   </td>  
 </tr>
 <tr>
-<td>
-    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/locandina-docker-parte2.png"><img src="images/geek/locandina-docker-parte2-lower.jpg" width="85" height="120" alt=""></a></div><div class="gallerytext">Geek Evening 0x2A</div>
+  <td>
+      <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/locandina-docker-parte2.png"><img src="images/geek/locandina-docker-parte2-lower.jpg" width="85" height="120" alt=""></a></div><div class="gallerytext">Geek Evening 0x2A</div>
+      </div>
+  </td>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/locandina-react.png"><img src="images/geek/locandina-react-lower.jpg" width="120" height="84" alt=""></a></div><div class="gallerytext">Geek Evening 0x2B</div>
     </div>
-</td>
+  </td>  
 </tr>
 </tbody></table>

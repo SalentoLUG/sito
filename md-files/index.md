@@ -1,5 +1,23 @@
 # Home
 
+## Geek Evening 0x2B - Let's build a WebApps UI using React
+
+[![](images/geek/locandina-react-lower.jpg)](images/geek/locandina-react.png)
+
+React è una libreria Javascript creata da Facebook e Instagram (https://facebook.github.io/react/)
+che permette di realizzare un'applicazione single-page (Single Page Applications (SPA))
+attraverso una struttura che la divide in componenti dinamici e riutilizzabili.
+
+Se volete saperne di piu' su React, il Virtual DOM
+e come gestire lo stato di una webapp usando
+Redux o MobX, non potete perdervi questo appuntamento.
+
+Ingredienti:
+- un litro di nodejs
+- due tuorli di webpack e babel
+- un pizzico di framework e librerie (react, redux / mobx)
+- un caffe' e due birre alla spina
+
 ## Geek Evening 0x2A - Docker: da 0 a 100! - SECONDA PARTE
 
 [![](images/geek/locandina-docker-parte2-lower.jpg)](images/geek/locandina-docker-parte2.png)
