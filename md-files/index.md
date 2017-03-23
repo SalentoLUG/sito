@@ -18,6 +18,11 @@ Ingredienti:
 - un pizzico di framework e librerie (react, redux / mobx)
 - un caffe' e due birre alla spina
 
+<br><br>
+Il repository degli **esempi** (con guida all'utilizzo) lo trovate al seguente link:<br>
+[https://github.com/SalentoLUG/geek-evening-react2017](https://github.com/SalentoLUG/geek-evening-react2017)
+
+
 ## Geek Evening 0x2A - Docker: da 0 a 100! - SECONDA PARTE
 
 [![](images/geek/locandina-docker-parte2-lower.jpg)](images/geek/locandina-docker-parte2.png)
