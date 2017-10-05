@@ -23,7 +23,7 @@ do
 
   for file in $MD_PATH/$DIR_TEMP/*.md
   do
-    if [ $(basename $file) == "index.md" ] && [ "$DIR_TEMP" == "." ];
+    if [ $(basename $file) == "index.md" ] || [ $(basename $file) == "OldNews.md" ] && [ "$DIR_TEMP" == "." ];
     then
         pandoc --toc -V lang:italian --smart --section-divs -f markdown --template $TEMPLATES_PATH/template-sito-home.html --css css/custom.css --css css/home.css -o $OUTPUT_PATH/$(basename $file).html $file -N
     elif [ "$DIR_TEMP" == "." ];
