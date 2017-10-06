@@ -1,5 +1,30 @@
 # Home
 
+## Geek Evening 0x2C - Crush the bug
+
+[![](images/geek/crush-the-bug-low.jpeg)](images/geek/crush-the-bug.png)
+
+<h3>The Obscure Art of Debugging</h3>
+
+Diciamoci la verita': una buona parte del tempo necessario a scrivere un software
+e' in un modo o nell'altro dedicato al debugging.
+
+Per meglio affinare e condividere le tecniche che ci possono aiutare a rendere questo
+"tempo di debugging" il meno "doloroso" possibile, ci incontreremo a ZEI per discutere
+di debugging e attraversare insieme le "sei fasi del debugging" su alcuni scenari
+relativi a bug realmente esistenti (o esistiti :-P)
+
+<br><br>
+Quando :<br>
+**Giovedi' 12 Ottobre 2017 - ore 20:30**
+
+Dove : <br>
+**Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
+
+Speaker : <br>
+ **Luca Greco**
+
+
 ## Geek Evening 0x2B - Let's build a WebApps UI using React
 
 [![](images/geek/locandina-react-lower.jpg)](images/geek/locandina-react.png)
