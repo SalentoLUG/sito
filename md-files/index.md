@@ -1,5 +1,28 @@
 # Home
 
+## Geek Evening 0x2D - There is no $HOME like your shell
+
+[![](images/geek/locandina-shell-low.png)](images/geek/locandina-shell.png)
+
+<h3>There is no $HOME like your shell</h3>
+
+Shell ed Editor sono due tra gli strumenti piu' importanti per un programmatore,
+Venerdi' 27 Ottobre ci incontreremo alle 20.00 a ZEI per discuterne e scoprire
+cosa custodiamo gelosamente nei nostri bashrc/zshrc, come utilizzare un terminal
+multiplexer (tmux) per gestire sessioni di shell multiple, quali sono i tool a
+linea di comando integrati nella nostra shell e come personalizzare il prompt di
+shell e il tema tmux per ottimizzare il nostro flusso di lavoro.
+
+<br><br>
+Quando :<br>
+**Venerdi' 27 Ottobre 2017 - ore 20:00**
+
+Dove : <br>
+**Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
+
+Speaker : <br>
+ **Luca Greco**
+
 ## Geek Evening 0x2C - Crush the bug
 
 [![](images/geek/crush-the-bug-low.jpeg)](images/geek/crush-the-bug.png)

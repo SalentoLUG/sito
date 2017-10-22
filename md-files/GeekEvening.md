@@ -154,6 +154,7 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
 * Geek Evening 0x2A - Docker da 0 a 100! Seconda Parte
 * Geek Evening 0x2B - Let’s build a WebApps UI using React
 * Geek Evening 0x2C - Crush the bug - The obscure art of debugging
+* Geek Evening 0x2D - There is no $HOME like your shell
 
 # Locandine
 
@@ -358,6 +359,10 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
   </td>  
   <td>
     <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/crush-the-bug.png"><img src="images/geek/crush-the-bug-low.jpeg" width="120" height="84" alt=""></a></div><div class="gallerytext">Geek Evening 0x2C</div>
+    </div>
+  </td>  
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/locandina-shell.png"><img src="images/geek/locandina-shell-low.png" width="120" height="84" alt=""></a></div><div class="gallerytext">Geek Evening 0x2D</div>
     </div>
   </td>  
 </tr>
