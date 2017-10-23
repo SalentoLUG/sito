@@ -33,5 +33,7 @@ ma non e' escluso che diventi qualcos'altro, vedi 'futuri sviluppi'.
     marker1.bindPopup("<b>ripley</b><br>Lecce");
     var marker2 = L.marker([40.17303, 18.16437]).addTo(map);
     marker2.bindPopup("<b>donkey</b><br>Galatina");
+    var marker3 = L.marker([40.2020692, 18.2919971]).addTo(map);
+    marker3.bindPopup("<b>ilpianista</b><br>Martano");
 
 </script>
