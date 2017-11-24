@@ -155,6 +155,7 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
 * Geek Evening 0x2B - Let’s build a WebApps UI using React
 * Geek Evening 0x2C - Crush the bug - The obscure art of debugging
 * Geek Evening 0x2D - There is no $HOME like your shell
+* Geek Evening 0x2E - CarOps: fidarsi e' bene, non fidarsi e' meglio!
 
 # Locandine
 
@@ -365,5 +366,11 @@ Vi invitiamo a partecipare numerosi e a proporre argomenti che volete siano trat
     <div class="gallerybox"><div class="thumb" style="padding: 30px 0;"><a href="images/geek/locandina-shell.png"><img src="images/geek/locandina-shell-low.png" width="120" height="84" alt=""></a></div><div class="gallerytext">Geek Evening 0x2D</div>
     </div>
   </td>  
+</tr>
+<tr>
+  <td>
+    <div class="gallerybox"><div class="thumb" style="padding: 13px 0;"><a href="images/geek/locandina-carops.png"><img src="images/geek/locandina-carops-low.png" width="85" height="120" alt=""></a></div><div class="gallerytext">Geek Evening 0x2E</div>
+    </div>
+  </td>
 </tr>
 </tbody></table>

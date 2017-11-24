@@ -1,5 +1,27 @@
 # Home
 
+## Geek Evening 0x2E - CarOps: fidarsi e' bene, non fidarsi e' meglio!
+
+[![](images/geek/locandina-carops-low.png)](images/geek/locandina-carops.png)
+
+I nuovi sistemi di Car Tracking per tenere al sicuro le nostre dai malviventi ci
+rendono piu' tranquilli. Possiamo sempre sapere dov'e' la nostra macchina, e in
+caso di furto rincorrere i malviventi a piedi!!<br><br>
+Siamo sicuri che le informazioni di posizione della nostra auto siano accessibili
+soltanto a noi? e che un persona simpatica non possa sapere dove siamo o dove
+abbiamo parcheggiato ???
+<br>La sicurezza e' sempre vicina ai pensieri dei loro produttori!!!
+
+Quando :<br>
+**Martedi' 28 Novembre 2017 - ore 20:30**
+
+Dove : <br>
+**Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
+
+Speaker : <br>
+<a href="https://www.andreascarpino.it/">**Andrea Scarpino**</a>
+
+
 ## Geek Evening 0x2D - There is no $HOME like your shell
 
 [![](images/geek/locandina-shell-low.png)](images/geek/locandina-shell.png)
