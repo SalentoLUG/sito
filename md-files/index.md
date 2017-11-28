@@ -1,5 +1,28 @@
 # Home
 
+## Industria 4.0-Lavoro digitale: qual è il tuo device?
+
+[![](images/geek/locandina-industria40-low.jpg)](images/geek/locandina-industria40.jpg)
+
+<h4>**Venerdì dalle ore 19:00 alle ore 22:00 @ Zei Spazio Sociale**</h4>
+<br>
+L'utilizzo massiccio delle nuove tecnologie informatiche e di internet, tanto nei processi produttivi, quanto nell'erogazione di servizi, sta favorendo l’affermarsi di nuovi modelli produttivi e organizzativi, l’emersione di nuove figure professionali e mansioni (o presunte tali).
+Dall’operaio-massa al crowdworker; dal consumatore al prosumer; dal job on call al lavoro on demand; dalla precarietà ammantata di flessibilità alla gig economy - quella dei lavoretti fatti per “hobby” (!); dallo sfruttamento capitalista al pericolo dell’autosfruttamento nel platform capitalism: l’economia e il mercato del lavoro stanno assumendo nuove declinazioni, ridefinendo i confini della competizione globale e aprendo a nuovi interrogativi su scala giuridica, sociale, politica, tra previsioni apocalittiche e il riemergere di vecchie problematiche lavoristiche che sembravano superate ma che “La IV rivoluzione industriale” sembra riproporre.
+
+Ma è tutto vero quello che si racconta?
+I robot delle fabbriche intelligenti provocheranno ingovernabili livelli di disoccupazione tecnologica?
+Davvero è sufficiente utilizzare un device per potersi dire “lavoratore”?
+I tradizionali strumenti di rappresentanza saranno sufficienti a favorire l’aggregazione dei lavoratori e quelli del welfare a socializzare i rischi?
+
+Obiettivo del seminario che svolgeremo allo Spazio Sociale Zei sarà quello di tracciare una definizione di Industra4.0 e Lavoro digitale e provare a disegnare una cornice di riferimento dei due fenomeni consapevoli della loro profonda diversità e dell'altrettanto intima connessione.<br><br>
+Lo faremo con:<br>
+* il **prof. Angelo Salento**, ricercatore, insegna sociologia economica e sociological analysis of development all’UniSalento, e membro del comitato scientifico della Fondazione Sabattini, con cui collabora in una ricerca su I4.0<br>
+* **Fausto Durante**, responsabile Politiche europee e internazionali della Cgil, che segue la tematica di I4.0 a livello europeo e internazionale<br>
+* **Luca Greco**, programmatore attivo nella community di sviluppo del Software Libero ed OpenSource, cofondatore di SaLUG! e della cooperativa ALCA<br>
+* **Giuseppe Recchia**, assegnista di ricerca in diritto del lavoro dell’UniBa che sta studiando le problematiche della rappresentanza e dell’azione collettiva ai tempi della sharing economy<br>
+
+Modera Andrea Serra, cofondatore dell’associazione Utoya.lep e Laboratorio
+
 ## Geek Evening 0x2E - CarOps: fidarsi e' bene, non fidarsi e' meglio!
 
 [![](images/geek/locandina-carops-low.png)](images/geek/locandina-carops.png)
