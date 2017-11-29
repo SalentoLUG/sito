@@ -45,6 +45,10 @@ Speaker : <br>
 <a href="https://www.andreascarpino.it/">**Andrea Scarpino**</a>
 
 
+<br><br>
+Il repository degli **esempi** (con guida all'utilizzo) lo trovate al seguente link:<br>
+[https://github.com/SalentoLUG/geek-evening-carops](https://github.com/SalentoLUG/geek-evening-carops)
+
 ## Geek Evening 0x2D - There is no $HOME like your shell
 
 [![](images/geek/locandina-shell-low.png)](images/geek/locandina-shell.png)
