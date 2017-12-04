@@ -1,5 +1,25 @@
 # Home
 
+## Workshop di autodifesa digitale con il Collettivo Ippolita
+
+[![](images/geek/locandina-workshop-ippolita-low.jpg)](images/geek/locandina-workshop-ippolita.jpg)
+
+<h4>**Lunedi' dalle ore 16:00 alle ore 19:00 @ Zei Spazio Sociale**</h4>
+Una giornata dedicata alla formazione e alla scoperta di piccoli trucchi per imparare a difendersi nell'epoca digitale.<br>
+Quante volte avete sentito parole come Big Data, Profilazione, Bitcoin, cookies, crittografia, Free labour, Lavoro digitale e Filter Bubble? Oramai alcune sono entrate nel linguaggio comune, altre ci lasciano ancora perplessi. Ma in realtà queste parole sono legate direttamente a noi, alla costruzione della nostra identità e del nostro spazio nel mondo. E se questo spazio non fosse propriamente nostro? E se anche l'affermazione della nostra identità fosse intaccata?
+<br><br>
+Lo strumento da cui partiremo sarà il lessico "Tecnologie del dominio- Lessico minimo di autordifesa digltale" (Meltemi). Durante la giornata di formazione anche molti esempi pratici ed esercizi perchè crediamo sia fondamentale avere gli strumenti per riconoscere il mondo /virtuale/ in cui viviamo e siamo e, se volessimo, per difenderci da esso. <br>
+"Il fine è quello di attivare processi riflessivi, sostenere l’attivazione consapevole di uno sguardo strabico in cui gli individui possano con un occhio osservare se stessi e con l’altro le caratteristiche dell’ambiente tecnologico che abitano, al fine di evidenziarne, da una prospettiva decentrata, le interazioni. Apprendere di sé in relazione con il mondo che li circonda. Si tratta di osservare una dinamica relazionale persona-ambienti digitali che, se da una parte rivelerà elementi in comune tra ogni essere umano, per altri versi non può che essere personale, unica, perché coinvolgerà ed evidenzierà il ruolo di vissuti, immaginari, entusiasmi, resistenze, attitudini, rappresentazioni dell’universo individuale e sociale che ognuno abita".
+<br><br>
+Il primo "Workshop di autodifesa digitale" con il Collettivo Ippolita è organizzata da LINK Lecce - Coordinamento Universitario e Zei Spazio Sociale in collaborazione con Alca e Salug GLug grazie al finanziamento del Dipartimento di Storia, Società e studi sull'uomo dell'Università del Salento.
+<br><br>
+Il Workshop è gratuito. È preferibile la prenotazione (puoi scrivere a caterinaannese@gmail.com o sulla pagina fb di Zei Spazio Socialee LINK Lecce - Coordinamento Universitario)
+<br><br>
+[http://www.ippolita.net/it](http://www.ippolita.net/it)<br><br>
+[https://www.carmillaonline.com/2017/11/02/tecnologie-del-dominio-manuale-autodifesa-digitale/](https://www.carmillaonline.com/2017/11/02/tecnologie-del-dominio-manuale-autodifesa-digitale/)<br><br>
+[https://ilmanifesto.it/ippolita-un-abbecedario-della-rete-per-orientarsi-nel-caos/](https://ilmanifesto.it/ippolita-un-abbecedario-della-rete-per-orientarsi-nel-caos/)
+
+
 ## Industria 4.0-Lavoro digitale: qual è il tuo device?
 
 [![](images/geek/locandina-industria40-low.jpg)](images/geek/locandina-industria40.jpg)
