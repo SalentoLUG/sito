@@ -1,5 +1,22 @@
 # Home
 
+## Segmentation Fault
+
+[![](images/segmentation-fault.png)](images/segmentation-fault.png)
+
+Sentivate la nostra mancanza? Non vi preoccupate, siamo tornati!!!
+
+<!-- [![](images/segmentation-fault.jpg){style="margin-right:20px; width:30%; float:left;" }](images/segmentation-fault.jpg) -->
+
+Da domani partirà un nuovo programma radiofonico settimanale, dal titolo Segmentation Fault!!
+Il programma di approfondimento sul software libero tenuto dal SaLUG!, con Fabio Purple e Angelo Sydro.
+Scoprirete in ogni puntata un nuovo tema, il tutto condito da tanta buona musica Creative Commons!
+
+Potete ascoltarci domani a partire dalle 11.00 sul sito del SaLUG! o su [Unitoo Web Radio](https://www.unitoo.it/progetti/radio/)
+all'indirizzo [https://radio.unitoo.it/public/liveradio](https://radio.unitoo.it/public/liveradio)
+
+Happy Listening! 🤯
+
 ## Workshop di autodifesa digitale con il Collettivo Ippolita
 
 [![](images/geek/locandina-workshop-ippolita-low.jpg)](images/geek/locandina-workshop-ippolita.jpg)
@@ -19,7 +36,6 @@ Il Workshop è gratuito. È preferibile la prenotazione (puoi scrivere a caterin
 [https://www.carmillaonline.com/2017/11/02/tecnologie-del-dominio-manuale-autodifesa-digitale/](https://www.carmillaonline.com/2017/11/02/tecnologie-del-dominio-manuale-autodifesa-digitale/)<br><br>
 [https://ilmanifesto.it/ippolita-un-abbecedario-della-rete-per-orientarsi-nel-caos/](https://ilmanifesto.it/ippolita-un-abbecedario-della-rete-per-orientarsi-nel-caos/)
 
-
 ## Industria 4.0-Lavoro digitale: qual è il tuo device?
 
 [![](images/geek/locandina-industria40-low.jpg)](images/geek/locandina-industria40.jpg)
@@ -36,10 +52,11 @@ I tradizionali strumenti di rappresentanza saranno sufficienti a favorire l’ag
 
 Obiettivo del seminario che svolgeremo allo Spazio Sociale Zei sarà quello di tracciare una definizione di Industra4.0 e Lavoro digitale e provare a disegnare una cornice di riferimento dei due fenomeni consapevoli della loro profonda diversità e dell'altrettanto intima connessione.<br><br>
 Lo faremo con:<br>
-* il **prof. Angelo Salento**, ricercatore, insegna sociologia economica e sociological analysis of development all’UniSalento, e membro del comitato scientifico della Fondazione Sabattini, con cui collabora in una ricerca su I4.0<br>
-* **Fausto Durante**, responsabile Politiche europee e internazionali della Cgil, che segue la tematica di I4.0 a livello europeo e internazionale<br>
-* **Luca Greco**, programmatore attivo nella community di sviluppo del Software Libero ed OpenSource, cofondatore di SaLUG! e della cooperativa ALCA<br>
-* **Giuseppe Recchia**, assegnista di ricerca in diritto del lavoro dell’UniBa che sta studiando le problematiche della rappresentanza e dell’azione collettiva ai tempi della sharing economy<br>
+
+- il **prof. Angelo Salento**, ricercatore, insegna sociologia economica e sociological analysis of development all’UniSalento, e membro del comitato scientifico della Fondazione Sabattini, con cui collabora in una ricerca su I4.0<br>
+- **Fausto Durante**, responsabile Politiche europee e internazionali della Cgil, che segue la tematica di I4.0 a livello europeo e internazionale<br>
+- **Luca Greco**, programmatore attivo nella community di sviluppo del Software Libero ed OpenSource, cofondatore di SaLUG! e della cooperativa ALCA<br>
+- **Giuseppe Recchia**, assegnista di ricerca in diritto del lavoro dell’UniBa che sta studiando le problematiche della rappresentanza e dell’azione collettiva ai tempi della sharing economy<br>
 
 Modera Andrea Serra, cofondatore dell’associazione Utoya.lep e Laboratorio
 
@@ -64,12 +81,11 @@ Dove : <br>
 Speaker : <br>
 <a href="https://www.andreascarpino.it/">**Andrea Scarpino**</a>
 
-
 <br><br>
 Il repository degli **esempi** (con guida all'utilizzo) lo trovate al seguente link:<br>
 [https://github.com/SalentoLUG/geek-evening-carops](https://github.com/SalentoLUG/geek-evening-carops)
 
-## Geek Evening 0x2D - There is no $HOME like your shell
+## Geek Evening 0x2D - There is no \$HOME like your shell
 
 [![](images/geek/locandina-shell-low.png)](images/geek/locandina-shell.png)
 
@@ -90,7 +106,7 @@ Dove : <br>
 **Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
 
 Speaker : <br>
- **Luca Greco**
+**Luca Greco**
 
 ## Geek Evening 0x2C - Crush the bug
 
@@ -114,8 +130,7 @@ Dove : <br>
 **Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
 
 Speaker : <br>
- **Luca Greco**
-
+**Luca Greco**
 
 ## Geek Evening 0x2B - Let's build a WebApps UI using React
 
@@ -130,6 +145,7 @@ e come gestire lo stato di una webapp usando
 Redux o MobX, non potete perdervi questo appuntamento.
 
 Ingredienti:
+
 - un litro di nodejs
 - due tuorli di webpack e babel
 - un pizzico di framework e librerie (react, redux / mobx)
@@ -138,7 +154,6 @@ Ingredienti:
 <br><br>
 Il repository degli **esempi** (con guida all'utilizzo) lo trovate al seguente link:<br>
 [https://github.com/SalentoLUG/geek-evening-react2017](https://github.com/SalentoLUG/geek-evening-react2017)
-
 
 ## Geek Evening 0x2A - Docker: da 0 a 100! - SECONDA PARTE
 
@@ -160,12 +175,11 @@ Dove : <br>
 **Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
 
 Speaker : <br>
- **Angelo D'Autilia**
+**Angelo D'Autilia**
 
 <br><br>
 Il repository delle **slide** (con guida all'utilizzo) lo trovate al seguente link:<br>
 [https://github.com/SalentoLUG/geek-evening-docker](https://github.com/SalentoLUG/geek-evening-docker)
-
 
 ## Geek Evening 0x29 - Javascript nel 2016...e oltre!
 
@@ -194,11 +208,10 @@ Dove : <br>
 **Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
 
 Speaker : <br>
- **Luca 'rpl' Greco**
+**Luca 'rpl' Greco**
 
 Il repository delle **slide** lo trovate al seguente link:<br>
 [https://github.com/SalentoLUG/geek-evening-javascript2016](https://github.com/SalentoLUG/geek-evening-javascript2016)
-
 
 ## Geek Evening 0x28 - Docker: da 0 a 100!
 
@@ -220,7 +233,7 @@ Dove : <br>
 **Spazio Sociale Arci Zei - Corte dei Chiaramonte, 2 - Lecce**
 
 Speaker : <br>
- **Angelo D'Autilia**
+**Angelo D'Autilia**
 
 <br><br>
 Il repository delle **slide** (con guida all'utilizzo) lo trovate al seguente link:<br>
@@ -239,7 +252,6 @@ Speaker: **Giuseppe Longo**
 
 Non c'e' altro da aggiungere...!!!
 
-
 ## Geek Evening 0x26 - Surprise
 
 [![](images/geek/surprise-low.png)](images/geek/surprise.png)
@@ -249,7 +261,6 @@ Nuovo evento geek, nuova forma di presentarlo!!!
 Questa volta il SaLUG! e' lieto di presentarvi il primo Geek Evening con argomento a sorpresa. Di cosa si tratta vi starete domandando voi... e' un evento in cui si parlera' di... chi puo' dirlo... qualunque cosa che riguardi l'informatica, l'hacking e la curiosita' in generale!!!
 
 L'argomento non si sapra' fino alle 20:00 di mercoledi' 6 Aprile.
-
 
 L'uniche cose certe sono :
 
@@ -263,7 +274,6 @@ Speaker : <br>
 **fry**
 
 Quindi che altro aggiungere...ci vediamo a Zei!
-
 
 ## 50 sfumature di Hello World 0x01 - LUA
 
@@ -284,7 +294,6 @@ Speaker dell'evento : **ntako (aka Matteo Nuzzachi)**
 <br>
 Dove: **Spazio Sociale Zei** in Corte dei Chiaramonte, 2 - Lecce
 Quando: **23 Marzo** alle ore **20:00**
-
 
 ## Geek Evening 0x25 - Machine Learning and Data Mining
 
@@ -307,7 +316,6 @@ In questa serata Stefano Larini (aka Donkey) ci introdurra' all'utilizzo di Angu
 Tra esempi, codice, chiacchiere e birrette analizzeremo insieme questo nuovo framework javascript di cui tanto si parla!
 
 More info : [https://angularjs.org/](https://angularjs.org/)
-
 
 ## Baobáxia: Connecting off-line afro-brazilian communities with free software
 
@@ -349,6 +357,7 @@ Dopo i simpatici Advisory che ci hanno accompagnato nell'ultimo periodo (Heartbl
 Ai controlli avremo: Giuseppe Primiero, ricercatore nell'ambito della Filosofia della Logica e lettore della facolta di Computer Science alla Middlesex University a Londra
 
 Quindi... ricapitolando:
+
 - matematica ed informatica si faranno una chiacchierata e prenderanno unabirra insieme a ZEI
 - ci saranno cenni a Coq, un "formal machine-checked proofs system" coperto da licenza GPLv2
 - ci sarà "apt-get", invitato nel ruolo di "caso d'uso"
