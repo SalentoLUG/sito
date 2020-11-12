@@ -4,7 +4,7 @@
 
 Abbiamo ricominciato con la seconda stagione di Segmentation Fault
 
-Potete ascoltarci domani a partire dalle 11.00 sul sito del SaLUG! o su [Unitoo Web Radio](https://www.unitoo.it/progetti/radio/)
+Potete ascoltarci tutti i giovedi' a partire dalle 17.00 sul sito del SaLUG! o su [Unitoo Web Radio](https://www.unitoo.it/progetti/radio/)
 all'indirizzo [https://radio.unitoo.it/public/liveradio](https://radio.unitoo.it/public/liveradio)
 
 Se volete riascoltarci potete farlo da qui:
